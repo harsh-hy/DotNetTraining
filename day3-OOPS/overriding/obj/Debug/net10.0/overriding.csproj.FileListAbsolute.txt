@@ -1,0 +1,15 @@
+C:\DotNetTraining\day3-OOPS\overriding\bin\Debug\net10.0\overriding.exe
+C:\DotNetTraining\day3-OOPS\overriding\bin\Debug\net10.0\overriding.deps.json
+C:\DotNetTraining\day3-OOPS\overriding\bin\Debug\net10.0\overriding.runtimeconfig.json
+C:\DotNetTraining\day3-OOPS\overriding\bin\Debug\net10.0\overriding.dll
+C:\DotNetTraining\day3-OOPS\overriding\bin\Debug\net10.0\overriding.pdb
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\overriding.AssemblyInfoInputs.cache
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\overriding.AssemblyInfo.cs
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\overriding.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\overriding.sourcelink.json
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\overriding.dll
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\refint\overriding.dll
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\overriding.pdb
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\overriding.genruntimeconfig.cache
+C:\DotNetTraining\day3-OOPS\overriding\obj\Debug\net10.0\ref\overriding.dll
