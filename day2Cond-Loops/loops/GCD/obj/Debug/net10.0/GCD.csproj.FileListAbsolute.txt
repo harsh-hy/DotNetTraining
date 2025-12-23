@@ -1,0 +1,14 @@
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\bin\Debug\net10.0\GCD.exe
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\bin\Debug\net10.0\GCD.deps.json
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\bin\Debug\net10.0\GCD.runtimeconfig.json
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\bin\Debug\net10.0\GCD.dll
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\bin\Debug\net10.0\GCD.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\obj\Debug\net10.0\GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\obj\Debug\net10.0\GCD.AssemblyInfoInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\obj\Debug\net10.0\GCD.AssemblyInfo.cs
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\obj\Debug\net10.0\GCD.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\obj\Debug\net10.0\GCD.dll
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\obj\Debug\net10.0\refint\GCD.dll
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\obj\Debug\net10.0\GCD.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\obj\Debug\net10.0\GCD.genruntimeconfig.cache
+C:\DotNetTraining\day2Cond-Loops\loops\GCD\obj\Debug\net10.0\ref\GCD.dll

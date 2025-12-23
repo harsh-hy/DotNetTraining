@@ -1,0 +1,14 @@
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\bin\Debug\net10.0\leapyear.exe
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\bin\Debug\net10.0\leapyear.deps.json
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\bin\Debug\net10.0\leapyear.runtimeconfig.json
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\bin\Debug\net10.0\leapyear.dll
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\bin\Debug\net10.0\leapyear.pdb
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\obj\Debug\net10.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\obj\Debug\net10.0\leapyear.AssemblyInfoInputs.cache
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\obj\Debug\net10.0\leapyear.AssemblyInfo.cs
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\obj\Debug\net10.0\leapyear.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\obj\Debug\net10.0\leapyear.dll
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\obj\Debug\net10.0\refint\leapyear.dll
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\obj\Debug\net10.0\leapyear.pdb
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\obj\Debug\net10.0\leapyear.genruntimeconfig.cache
+C:\DotNetTraining\day2Cond-Loops\cond\leapyear\obj\Debug\net10.0\ref\leapyear.dll

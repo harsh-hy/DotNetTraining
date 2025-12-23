@@ -1,0 +1,14 @@
+C:\DotNetTraining\day3-OOPS\Account\bin\Debug\net10.0\Account.exe
+C:\DotNetTraining\day3-OOPS\Account\bin\Debug\net10.0\Account.deps.json
+C:\DotNetTraining\day3-OOPS\Account\bin\Debug\net10.0\Account.runtimeconfig.json
+C:\DotNetTraining\day3-OOPS\Account\bin\Debug\net10.0\Account.dll
+C:\DotNetTraining\day3-OOPS\Account\bin\Debug\net10.0\Account.pdb
+C:\DotNetTraining\day3-OOPS\Account\obj\Debug\net10.0\Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day3-OOPS\Account\obj\Debug\net10.0\Account.AssemblyInfoInputs.cache
+C:\DotNetTraining\day3-OOPS\Account\obj\Debug\net10.0\Account.AssemblyInfo.cs
+C:\DotNetTraining\day3-OOPS\Account\obj\Debug\net10.0\Account.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day3-OOPS\Account\obj\Debug\net10.0\Account.dll
+C:\DotNetTraining\day3-OOPS\Account\obj\Debug\net10.0\refint\Account.dll
+C:\DotNetTraining\day3-OOPS\Account\obj\Debug\net10.0\Account.pdb
+C:\DotNetTraining\day3-OOPS\Account\obj\Debug\net10.0\Account.genruntimeconfig.cache
+C:\DotNetTraining\day3-OOPS\Account\obj\Debug\net10.0\ref\Account.dll

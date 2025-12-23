@@ -1,0 +1,14 @@
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\bin\Debug\net10.0\SumOfDigits.exe
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\bin\Debug\net10.0\SumOfDigits.deps.json
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\bin\Debug\net10.0\SumOfDigits.runtimeconfig.json
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\bin\Debug\net10.0\SumOfDigits.dll
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\bin\Debug\net10.0\SumOfDigits.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\obj\Debug\net10.0\SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\obj\Debug\net10.0\SumOfDigits.AssemblyInfoInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\obj\Debug\net10.0\SumOfDigits.AssemblyInfo.cs
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\obj\Debug\net10.0\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\obj\Debug\net10.0\SumOfDigits.dll
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\obj\Debug\net10.0\refint\SumOfDigits.dll
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\obj\Debug\net10.0\SumOfDigits.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\obj\Debug\net10.0\SumOfDigits.genruntimeconfig.cache
+C:\DotNetTraining\day2Cond-Loops\loops\SumOfDigits\obj\Debug\net10.0\ref\SumOfDigits.dll

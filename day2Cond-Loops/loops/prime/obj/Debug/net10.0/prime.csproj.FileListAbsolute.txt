@@ -1,0 +1,14 @@
+C:\DotNetTraining\day2Cond-Loops\loops\prime\bin\Debug\net10.0\prime.exe
+C:\DotNetTraining\day2Cond-Loops\loops\prime\bin\Debug\net10.0\prime.deps.json
+C:\DotNetTraining\day2Cond-Loops\loops\prime\bin\Debug\net10.0\prime.runtimeconfig.json
+C:\DotNetTraining\day2Cond-Loops\loops\prime\bin\Debug\net10.0\prime.dll
+C:\DotNetTraining\day2Cond-Loops\loops\prime\bin\Debug\net10.0\prime.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\prime\obj\Debug\net10.0\prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day2Cond-Loops\loops\prime\obj\Debug\net10.0\prime.AssemblyInfoInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\prime\obj\Debug\net10.0\prime.AssemblyInfo.cs
+C:\DotNetTraining\day2Cond-Loops\loops\prime\obj\Debug\net10.0\prime.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\prime\obj\Debug\net10.0\prime.dll
+C:\DotNetTraining\day2Cond-Loops\loops\prime\obj\Debug\net10.0\refint\prime.dll
+C:\DotNetTraining\day2Cond-Loops\loops\prime\obj\Debug\net10.0\prime.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\prime\obj\Debug\net10.0\prime.genruntimeconfig.cache
+C:\DotNetTraining\day2Cond-Loops\loops\prime\obj\Debug\net10.0\ref\prime.dll

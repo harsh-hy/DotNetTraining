@@ -1,0 +1,14 @@
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\bin\Debug\net10.0\Palindrome.exe
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\bin\Debug\net10.0\Palindrome.deps.json
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\bin\Debug\net10.0\Palindrome.runtimeconfig.json
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\bin\Debug\net10.0\Palindrome.dll
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\bin\Debug\net10.0\Palindrome.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\obj\Debug\net10.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfoInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfo.cs
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\obj\Debug\net10.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\obj\Debug\net10.0\Palindrome.dll
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\obj\Debug\net10.0\refint\Palindrome.dll
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\obj\Debug\net10.0\Palindrome.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\obj\Debug\net10.0\Palindrome.genruntimeconfig.cache
+C:\DotNetTraining\day2Cond-Loops\loops\Palindrome\obj\Debug\net10.0\ref\Palindrome.dll

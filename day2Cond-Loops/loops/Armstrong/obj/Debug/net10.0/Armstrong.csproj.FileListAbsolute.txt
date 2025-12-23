@@ -1,0 +1,14 @@
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\bin\Debug\net10.0\Armstrong.exe
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\bin\Debug\net10.0\Armstrong.deps.json
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\bin\Debug\net10.0\Armstrong.runtimeconfig.json
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\bin\Debug\net10.0\Armstrong.dll
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\bin\Debug\net10.0\Armstrong.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\obj\Debug\net10.0\Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\obj\Debug\net10.0\Armstrong.AssemblyInfoInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\obj\Debug\net10.0\Armstrong.AssemblyInfo.cs
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\obj\Debug\net10.0\Armstrong.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\obj\Debug\net10.0\Armstrong.dll
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\obj\Debug\net10.0\refint\Armstrong.dll
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\obj\Debug\net10.0\Armstrong.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\obj\Debug\net10.0\Armstrong.genruntimeconfig.cache
+C:\DotNetTraining\day2Cond-Loops\loops\Armstrong\obj\Debug\net10.0\ref\Armstrong.dll

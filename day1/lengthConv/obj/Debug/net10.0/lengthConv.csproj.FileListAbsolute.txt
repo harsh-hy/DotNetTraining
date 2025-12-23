@@ -1,0 +1,14 @@
+C:\DotNetTraining\day1\lengthConv\bin\Debug\net10.0\lengthConv.exe
+C:\DotNetTraining\day1\lengthConv\bin\Debug\net10.0\lengthConv.deps.json
+C:\DotNetTraining\day1\lengthConv\bin\Debug\net10.0\lengthConv.runtimeconfig.json
+C:\DotNetTraining\day1\lengthConv\bin\Debug\net10.0\lengthConv.dll
+C:\DotNetTraining\day1\lengthConv\bin\Debug\net10.0\lengthConv.pdb
+C:\DotNetTraining\day1\lengthConv\obj\Debug\net10.0\lengthConv.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day1\lengthConv\obj\Debug\net10.0\lengthConv.AssemblyInfoInputs.cache
+C:\DotNetTraining\day1\lengthConv\obj\Debug\net10.0\lengthConv.AssemblyInfo.cs
+C:\DotNetTraining\day1\lengthConv\obj\Debug\net10.0\lengthConv.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day1\lengthConv\obj\Debug\net10.0\lengthConv.dll
+C:\DotNetTraining\day1\lengthConv\obj\Debug\net10.0\refint\lengthConv.dll
+C:\DotNetTraining\day1\lengthConv\obj\Debug\net10.0\lengthConv.pdb
+C:\DotNetTraining\day1\lengthConv\obj\Debug\net10.0\lengthConv.genruntimeconfig.cache
+C:\DotNetTraining\day1\lengthConv\obj\Debug\net10.0\ref\lengthConv.dll

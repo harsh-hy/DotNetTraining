@@ -1,0 +1,14 @@
+C:\DotNetTraining\day1\area\bin\Debug\net10.0\area.exe
+C:\DotNetTraining\day1\area\bin\Debug\net10.0\area.deps.json
+C:\DotNetTraining\day1\area\bin\Debug\net10.0\area.runtimeconfig.json
+C:\DotNetTraining\day1\area\bin\Debug\net10.0\area.dll
+C:\DotNetTraining\day1\area\bin\Debug\net10.0\area.pdb
+C:\DotNetTraining\day1\area\obj\Debug\net10.0\area.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day1\area\obj\Debug\net10.0\area.AssemblyInfoInputs.cache
+C:\DotNetTraining\day1\area\obj\Debug\net10.0\area.AssemblyInfo.cs
+C:\DotNetTraining\day1\area\obj\Debug\net10.0\area.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day1\area\obj\Debug\net10.0\area.dll
+C:\DotNetTraining\day1\area\obj\Debug\net10.0\refint\area.dll
+C:\DotNetTraining\day1\area\obj\Debug\net10.0\area.pdb
+C:\DotNetTraining\day1\area\obj\Debug\net10.0\area.genruntimeconfig.cache
+C:\DotNetTraining\day1\area\obj\Debug\net10.0\ref\area.dll

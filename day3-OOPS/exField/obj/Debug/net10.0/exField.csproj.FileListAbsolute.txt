@@ -1,0 +1,14 @@
+C:\DotNetTraining\day3-OOPS\exField\bin\Debug\net10.0\exField.exe
+C:\DotNetTraining\day3-OOPS\exField\bin\Debug\net10.0\exField.deps.json
+C:\DotNetTraining\day3-OOPS\exField\bin\Debug\net10.0\exField.runtimeconfig.json
+C:\DotNetTraining\day3-OOPS\exField\bin\Debug\net10.0\exField.dll
+C:\DotNetTraining\day3-OOPS\exField\bin\Debug\net10.0\exField.pdb
+C:\DotNetTraining\day3-OOPS\exField\obj\Debug\net10.0\exField.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day3-OOPS\exField\obj\Debug\net10.0\exField.AssemblyInfoInputs.cache
+C:\DotNetTraining\day3-OOPS\exField\obj\Debug\net10.0\exField.AssemblyInfo.cs
+C:\DotNetTraining\day3-OOPS\exField\obj\Debug\net10.0\exField.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day3-OOPS\exField\obj\Debug\net10.0\exField.dll
+C:\DotNetTraining\day3-OOPS\exField\obj\Debug\net10.0\refint\exField.dll
+C:\DotNetTraining\day3-OOPS\exField\obj\Debug\net10.0\exField.pdb
+C:\DotNetTraining\day3-OOPS\exField\obj\Debug\net10.0\exField.genruntimeconfig.cache
+C:\DotNetTraining\day3-OOPS\exField\obj\Debug\net10.0\ref\exField.dll

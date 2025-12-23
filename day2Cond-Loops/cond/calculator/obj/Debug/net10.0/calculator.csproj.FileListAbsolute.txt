@@ -1,0 +1,14 @@
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\bin\Debug\net10.0\calculator.exe
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\bin\Debug\net10.0\calculator.deps.json
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\bin\Debug\net10.0\calculator.runtimeconfig.json
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\bin\Debug\net10.0\calculator.dll
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\bin\Debug\net10.0\calculator.pdb
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\obj\Debug\net10.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\obj\Debug\net10.0\calculator.AssemblyInfoInputs.cache
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\obj\Debug\net10.0\calculator.AssemblyInfo.cs
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\obj\Debug\net10.0\calculator.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\obj\Debug\net10.0\calculator.dll
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\obj\Debug\net10.0\refint\calculator.dll
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\obj\Debug\net10.0\calculator.pdb
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\obj\Debug\net10.0\calculator.genruntimeconfig.cache
+C:\DotNetTraining\day2Cond-Loops\cond\calculator\obj\Debug\net10.0\ref\calculator.dll

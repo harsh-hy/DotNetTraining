@@ -1,0 +1,14 @@
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\bin\Debug\net10.0\AtmWithdrawal.exe
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\bin\Debug\net10.0\AtmWithdrawal.deps.json
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\bin\Debug\net10.0\AtmWithdrawal.runtimeconfig.json
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\bin\Debug\net10.0\AtmWithdrawal.dll
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\bin\Debug\net10.0\AtmWithdrawal.pdb
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\obj\Debug\net10.0\AtmWithdrawal.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\obj\Debug\net10.0\AtmWithdrawal.AssemblyInfoInputs.cache
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\obj\Debug\net10.0\AtmWithdrawal.AssemblyInfo.cs
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\obj\Debug\net10.0\AtmWithdrawal.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\obj\Debug\net10.0\AtmWithdrawal.dll
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\obj\Debug\net10.0\refint\AtmWithdrawal.dll
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\obj\Debug\net10.0\AtmWithdrawal.pdb
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\obj\Debug\net10.0\AtmWithdrawal.genruntimeconfig.cache
+C:\DotNetTraining\day2Cond-Loops\cond\AtmWithdrawal\obj\Debug\net10.0\ref\AtmWithdrawal.dll
