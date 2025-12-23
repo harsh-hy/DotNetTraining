@@ -1,0 +1,15 @@
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\PascalTriangle.AssemblyInfoInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\PascalTriangle.AssemblyInfo.cs
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\PascalTriangle.sourcelink.json
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\bin\Debug\net10.0\PascalTriangle.exe
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\bin\Debug\net10.0\PascalTriangle.deps.json
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\bin\Debug\net10.0\PascalTriangle.runtimeconfig.json
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\bin\Debug\net10.0\PascalTriangle.dll
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\bin\Debug\net10.0\PascalTriangle.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\PascalTriangle.dll
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\refint\PascalTriangle.dll
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\PascalTriangle.pdb
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\PascalTriangle.genruntimeconfig.cache
+C:\DotNetTraining\day2Cond-Loops\loops\PascalTriangle\obj\Debug\net10.0\ref\PascalTriangle.dll
