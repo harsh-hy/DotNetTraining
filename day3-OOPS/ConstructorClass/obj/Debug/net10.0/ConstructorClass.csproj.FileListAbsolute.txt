@@ -1,0 +1,15 @@
+C:\DotNetTraining\day3-OOPS\ConstructorClass\bin\Debug\net10.0\ConstructorClass.exe
+C:\DotNetTraining\day3-OOPS\ConstructorClass\bin\Debug\net10.0\ConstructorClass.deps.json
+C:\DotNetTraining\day3-OOPS\ConstructorClass\bin\Debug\net10.0\ConstructorClass.runtimeconfig.json
+C:\DotNetTraining\day3-OOPS\ConstructorClass\bin\Debug\net10.0\ConstructorClass.dll
+C:\DotNetTraining\day3-OOPS\ConstructorClass\bin\Debug\net10.0\ConstructorClass.pdb
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\ConstructorClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\ConstructorClass.AssemblyInfoInputs.cache
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\ConstructorClass.AssemblyInfo.cs
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\ConstructorClass.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\ConstructorClass.sourcelink.json
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\ConstructorClass.dll
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\refint\ConstructorClass.dll
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\ConstructorClass.pdb
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\ConstructorClass.genruntimeconfig.cache
+C:\DotNetTraining\day3-OOPS\ConstructorClass\obj\Debug\net10.0\ref\ConstructorClass.dll
