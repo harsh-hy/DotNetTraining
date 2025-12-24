@@ -5,11 +5,13 @@ namespace MultipleInheritanceExample
     public interface IVegEaterian
     {
         void ShowDiet();
+        string GetTaste();
     }
 
     public interface INonVegEaterian
     {
         void ShowDiet();
+        string GetTaste();
     }
 
     public class VegEaterian
@@ -18,6 +20,11 @@ namespace MultipleInheritanceExample
         {
             Console.WriteLine("Vegetarian Diet: Includes vegetables, fruits, grains, and nuts.");
         }
+
+        public string GetTaste()
+        {
+            return "Mild and fresh.";
+        }
     }
 
     public class NonVegEaterian
@@ -25,6 +32,10 @@ namespace MultipleInheritanceExample
         public void ShowDiet()
         {
             Console.WriteLine("Non-Vegetarian Diet: Includes meat, fish, and poultry.");
+        }
+        public string GetTaste()
+        {
+            return "Rich and savory.";
         }
     }
 
@@ -37,10 +48,19 @@ namespace MultipleInheritanceExample
         {
             veg.ShowDiet();
         }
+        string IVegEaterian.GetTaste()
+        {
+            return veg.GetTaste();
+        }
+
 
         void INonVegEaterian.ShowDiet()
         {
             nonVeg.ShowDiet();
+        }
+        string INonVegEaterian.GetTaste()
+        {
+            return nonVeg.GetTaste();
         }
     }
 
@@ -52,9 +72,12 @@ namespace MultipleInheritanceExample
 
             IVegEaterian vegVisitor = v;
             vegVisitor.ShowDiet();
-
+            string vTaste = vegVisitor.GetTaste();
+            Console.WriteLine("Vegetarian Taste: " + vTaste);
             INonVegEaterian nonVegVisitor = v;
             nonVegVisitor.ShowDiet();
+            string nvTaste = nonVegVisitor.GetTaste();
+            Console.WriteLine("Non-Vegetarian Taste: " + nvTaste);
         }
     }
 }
