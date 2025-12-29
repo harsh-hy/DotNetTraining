@@ -1,0 +1,1 @@
+How can we hide a method that comes from a parent class in a child class?
