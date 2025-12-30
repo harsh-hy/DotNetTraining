@@ -1,38 +1,41 @@
 ﻿using System;
 using System.Collections;
-public class BigBoy: IDisposable
+
+public class BigBoy : IDisposable
 {
+    public ArrayList Names { get; set; }
+
     public BigBoy()
     {
-        
+        Names = new ArrayList();
     }
-    public ArrayList Names {get; set;}
+
     public void Dispose()
     {
-        Names = null;
+        Names = null; // releasing reference
+        Console.WriteLine("Resources disposed");
     }
-    
 }
 public class Program
 {
-    static void main()
+    static void Main()
     {
         BigBoy bigb = new BigBoy();
+
         try
         {
-            bigb Names =new System.Collections.ArrayList();
-            for(int i=0;i<10;i++)
+            for (int i = 0; i < 10; i++)
             {
                 bigb.Names.Add(i.ToString());
             }
         }
-        catch(Exception ex)
+        catch (Exception)
         {
             throw;
         }
         finally
         {
-            bigb.Dispose;
+            bigb.Dispose(); // guaranteed cleanup
         }
     }
 }
