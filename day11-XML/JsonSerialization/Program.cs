@@ -1,6 +1,7 @@
 ﻿using System;
-using System.Xml.Serialization;
+using System.Text.Json;
 using System.IO;
+using System.Collections.Generic;
 // Define the Driver class with properties to be serialized
 public class Driver
 {
@@ -34,14 +35,11 @@ class Program
                 "2024 Formula 1 World Champion"
             }
         };
-
-        XmlSerializer serializer = new XmlSerializer(typeof(Driver)); // Initialize the XmlSerializer for the Driver type
-
-        using (StringWriter writer = new StringWriter()) // Use StringWriter to capture the XML output
+        JsonSerializerOptions options = new JsonSerializerOptions
         {
-            serializer.Serialize(writer, driver); // Serialize the Driver object to XML
-            string xmlOutput = writer.ToString(); // Get the XML string from the StringWriter
-            Console.WriteLine(xmlOutput);
-        }
+            WriteIndented = true // Enable pretty-printing for better readability
+        };
+        string jsonString = JsonSerializer.Serialize(driver, options); // Serialize the Driver object to JSON
+        Console.WriteLine(jsonString); // Output the JSON string to the console
     }
 }

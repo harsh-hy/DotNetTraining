@@ -1,0 +1,6 @@
+The xml Starts from xs -> xml schema
+Sx established between the sender and the consumer of xml(Buyer or seller)
+
+Api - Application programming interface
+DotNet - Json  (json serialization)
+Json - DotNet  object (De-serialization)
