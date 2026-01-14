@@ -12,7 +12,7 @@ class Program
 
         Action<string> logger;
 
-        if(DateTime.Now.Hour < 12)
+        if(DateTime.Now.Hour < 18)
         {
             logger= GoodMorning();
         }
@@ -26,6 +26,12 @@ class Program
         //     Console.WriteLine($"{message.ToUpper()} at {DateTime.Now}");
         // };
         logger("Application Started");
+        Func<int, int, string> multiplyResult = (x, y) =>
+        {
+            return $"{x} times {y} is {x*y} ";
+        };
+        string resultText = multiplyResult(5,4);
+        Console.WriteLine(resultText);
     }
     private static Action<string> GoodMorning()
     {
