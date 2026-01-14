@@ -7,10 +7,10 @@ public class LinqExample
 {
     public LinqExample()
     {
-        var procColl= from p in System.Diagnostics.Process.GetProcesses()
-                      select new  MyProcess(){ Name=p.ProcessName, Id=p.Id};
-        foreach( var proc in procColl)
-            Console.WriteLine($"Process name = {proc.Name}  ID = {proc.Id}");
+        // var procColl= from p in System.Diagnostics.Process.GetProcesses()
+        //               select new  MyProcess(){ Name=p.ProcessName, Id=p.Id};
+        // foreach( var proc in procColl)
+        //     Console.WriteLine($"Process name = {proc.Name}  ID = {proc.Id}");
         var procColl= from p in System.Diagnostics.Process.GetProcesses()
                       select new  { Name=p.ProcessName, Id=p.Id};
         foreach( var proc in procColl)

@@ -12,13 +12,14 @@ public class LinqExample
                               select nam;
 
         foreach (var n in palindromeNames)
-            Console.WriteLine($"{n} is a palindrome");  
+            Console.WriteLine($"{n} is a palindrome");
     }
     public static bool IsPalindrome(string palCheck)
     {
         string reversed = new string(palCheck.Reverse().ToArray());
         return palCheck.Equals(reversed, StringComparison.OrdinalIgnoreCase);
     }
+    
 }
 
 public class Example
