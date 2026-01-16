@@ -5,7 +5,7 @@ namespace Ecom
 {
     class EcommerceShop
     {
-        public string UserName{get;set;}
+        public string? UserName{get;set;}
         public double WalletBalance{get;set;}
         public double TotalPurchaseAmount{get;set;}
     }
@@ -36,13 +36,14 @@ namespace Ecom
             Console.WriteLine("Enter the Amount");
             double amount = Convert.ToDouble(Console.ReadLine());
 
-            try{
-            EcommerceShop result=MakePayment(name,balance,amount);
-            if(result!=null)
+            try
             {
-                Console.WriteLine("Payment Successful");
-                Console.WriteLine($"User Name : {name}\nWallet Balance : {balance}\nTotal Purchase Amount : {amount}\nRemaining Balance :{balance-amount}");
-            }
+            EcommerceShop result=MakePayment(name, balance, amount);
+                if(result!=null)
+                {
+                    Console.WriteLine("Payment Successful");
+                    Console.WriteLine($"User Name : {name}\nWallet Balance : {balance}\nTotal Purchase Amount : {amount}\nRemaining Balance :{balance-amount}");
+                }
             }
             catch(InsufficientBalanceException ex)
             {
