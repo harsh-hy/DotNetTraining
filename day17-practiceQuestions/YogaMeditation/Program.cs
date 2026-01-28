@@ -15,7 +15,7 @@ namespace YogaMeditation
     {
         public static ArrayList memberlist =  new ArrayList();
         public void AddYogaMember(int memberId,int age,double weight,double height,string goal,double bmi)
-        {
+        { 
             memberlist.Add(new MeditationCenter{MemberId=memberId,Age=age,Weight=weight,Height=height,Goal=goal,BMI=bmi});
         }
         public double CalculateBMI(int memberId)
