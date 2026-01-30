@@ -19,11 +19,11 @@ class Program
             new Student {name = "James", average=78},
             new Student {name = "Remus", average=92},
         };
-        //Action for printing the details of student !!
+
         Action<Student> printStudent = s =>Console.Write($"{s.name} - Avg: {s.average}");
-        //Predicate for checking if the student failed or not !!
+        
         Predicate<Student> isFailed = s => s.average < 40;
-        //Function for remarks !!
+        
         Func<Student, string> getRemark = s =>
         {
             if (s.average < 40) return "   Failed";
