@@ -15,7 +15,7 @@ class Program
             new Student {name = "Harsh", average=98},
             new Student {name = "Nevil", average=74},
             new Student {name = "Harry", average=82},
-            new Student {name = "Ron", average=22},
+            new Student {name = "Ron  ", average=22},
             new Student {name = "James", average=78},
             new Student {name = "Remus", average=92},
         };
@@ -30,7 +30,7 @@ class Program
             if (s.average >= 90) return "   Distinction";
             return "   Passed";
         };
-        Console.WriteLine("     ----------Student Details ---------     ");
+        Console.WriteLine("     ----------Student Details ---------     \n");
         foreach(var x in li)
         {
             printStudent(x);
