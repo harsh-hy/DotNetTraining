@@ -1,0 +1,93 @@
+A training institute needs a console application to maintain student records. Each student has an Id, Name, Course, and Marks. The application should allow users to fetch student details by Id and update marks for a student by Id.
+Functionalities
+Class: Student
+Implement the following public properties:
+Data Type	Property
+string	Id
+string	Name
+string	Course
+int	Marks
+Class: Program
+The following dictionary is already provided:
+ 
+ 
+ 
+ 
+C#
+ 
+public static Dictionary<int, Student> studentDetails;
+
+Show more lines
+Note: The dictionary key is int, but the user inputs string Id (e.g., "ST01"). Your lookups must search by Student.Id inside dictionary values, not keys.
+Class: StudentUtility
+Method 1
+ 
+ 
+ 
+ 
+C#
+ 
+public Dictionary<string, string> GetStudentDetails(string id)
+
+Show more lines
+Description:
+If a student with the given id exists in Program.studentDetails (match against Student.Id), return a dictionary with one entry in the format:where Name and Course are concatenated using an underscore _.
+<StudentId, Name_Course>
+If not found, return an empty dictionary.
+Method 2
+ 
+ 
+ 
+ 
+C#
+ 
+public Dictionary<string, Student> UpdateStudentMarks(string id, int marks)
+
+``
+
+Show more lines
+Description:
+If a student with the given id exists (match against Student.Id), update the student’s Marks with the given marks, and return a dictionary with one entry:
+<StudentId, UpdatedStudentObject>
+If not found, return an empty dictionary.
+Console I/O Behavior
+In Program.Main:
+Display a menu repeatedly:
+1. Get Student Details
+2. Update Marks
+3. Exit
+Enter your choice
+Based on the selection, prompt for inputs and call the appropriate methods.
+Output Rule:
+If a method returns an empty dictionary, print:
+Student id not found
+On exit (choice 3), print:
+Thank you
+Constraints & Notes
+Keep all classes and methods public.
+Do not use Environment.Exit() to terminate the program.
+Do not change the given code template.
+Assume valid integer input for marks and menu choices (unless your platform requires validation).
+The dictionary is pre-populated in Main before menu interaction.
+Sample Input/Output
+ 
+Plain Text
+Plain Text
+Plain Text
+Plain Text
+1. Get Student Details
+2. Update Marks
+3. Exit
+Enter your choice
+1
+Enter the student id
+ST01
+ST01   Alice_DataScience
+1. Get Student Details
+2. Update Marks
+3. Exit
+Enter your choice
+1
+Enter the student id
+ST99
+Student id not found

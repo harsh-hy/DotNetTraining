@@ -1,0 +1,5 @@
+api gateay: ocelot (free ms fmodel) 
+EF Core code first 
+microservices:4 or more
+automated testing using selenium
+ui: angular
