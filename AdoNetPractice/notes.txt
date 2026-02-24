@@ -1,0 +1,1 @@
+parssowrd=YourStrongPassword - This is a placeholder for the actual password you should use when connecting to your database. Make sure to replace "YourStrongPassword" with a secure password that you have set for your database connection. Always keep your passwords safe and do not share them publicly.

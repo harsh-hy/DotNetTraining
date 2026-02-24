@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Employees>
+    <EmployeeId>1</EmployeeId>
+    <FullName>John Lennon</FullName>
+    <Department>IT</Department>
+    <Salary>65000.00</Salary>
+  </Employees>
+  <Employees>
+    <EmployeeId>2</EmployeeId>
+    <FullName>David Bowie</FullName>
+    <Department>HR</Department>
+    <Salary>45000.00</Salary>
+  </Employees>
+  <Employees>
+    <EmployeeId>3</EmployeeId>
+    <FullName>George</FullName>
+    <Department>Music</Department>
+    <Salary>100000000.00</Salary>
+  </Employees>
+  <Employees>
+    <EmployeeId>4</EmployeeId>
+    <FullName>Ringo Starr</FullName>
+    <Department>Music</Department>
+    <Salary>1222120.00</Salary>
+  </Employees>
+</NewDataSet>

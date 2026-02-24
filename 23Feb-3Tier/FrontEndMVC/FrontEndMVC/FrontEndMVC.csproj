@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BuisnessLogic">
+      <HintPath>..\..\BuisnessLogic\BuisnessLogic\bin\Debug\net10.0\BuisnessLogic.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
