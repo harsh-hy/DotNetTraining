@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\23feb-3tier\\employeee\\employeee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\23feb-3tier\\employeee\\employeee\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\23feb-3tier\\employeee\\employeee\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\23feb-3tier\\employeee\\employeee\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\23feb-3tier\\employeee\\employeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\23feb-3tier\\employeee\\employeee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\23feb-3tier\\employeee\\employeee\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,94 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Employeee\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "Employeee\\Views\\Employee\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-24T17:11:54.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Employeee\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Employeee\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-24T17:11:19.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Employeee\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Employeee\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwD4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T17:07:32.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Program.cs",
-              "RelativeDocumentMoniker": "Employeee\\Program.cs",
-              "ToolTip": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Program.cs",
-              "RelativeToolTip": "Employeee\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:44:36.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Employeee\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Employeee\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:13:00.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddEmployee.cshtml",
-              "DocumentMoniker": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Views\\Employee\\AddEmployee.cshtml",
-              "RelativeDocumentMoniker": "Employeee\\Views\\Employee\\AddEmployee.cshtml",
-              "ToolTip": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Views\\Employee\\AddEmployee.cshtml",
-              "RelativeToolTip": "Employeee\\Views\\Employee\\AddEmployee.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-24T10:12:48.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Employeee\\Models\\Employee.cs",
-              "ToolTip": "C:\\DotNetTraining\\23Feb-3Tier\\Employeee\\Employeee\\Models\\Employee.cs",
-              "RelativeToolTip": "Employeee\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:10:23.139Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
