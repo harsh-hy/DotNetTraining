@@ -59,7 +59,9 @@ namespace Employeee.Controllers
         // EDIT - GET
         public IActionResult Edit(int id)
         {
+
             var emp = empList.FirstOrDefault(e => e.Id == id);
+            ViewBag.Departments = departments;
             return View(emp);
         }
 
@@ -68,6 +70,13 @@ namespace Employeee.Controllers
         public IActionResult Edit(Employee emp)
         {
             _logger.LogInformation("Editing Employee Id {Id}", emp.Id);
+            if (!departments.Contains(emp.Department))
+            {
+                ModelState.AddModelError("Department", "Invalid Department");
+                ViewBag.Departments = departments;
+                return View(emp);
+            }
+
             var oldEmp = empList.FirstOrDefault(e => e.Id == emp.Id);
 
             if (oldEmp != null)

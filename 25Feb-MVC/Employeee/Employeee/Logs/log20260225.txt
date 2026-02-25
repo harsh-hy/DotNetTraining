@@ -1,0 +1,1102 @@
+2026-02-25 10:03:08.707 +05:30 [INF] User profile is available. Using 'C:\Users\Harsh Yadav\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-25 10:03:08.972 +05:30 [INF] Now listening on: https://localhost:7001
+2026-02-25 10:03:08.973 +05:30 [INF] Now listening on: http://localhost:5166
+2026-02-25 10:03:09.001 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-25 10:03:09.002 +05:30 [INF] Hosting environment: Development
+2026-02-25 10:03:09.002 +05:30 [INF] Content root path: C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee
+2026-02-25 10:03:09.534 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:03:09.713 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:03:09.739 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:09.749 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:03:09.846 +05:30 [INF] Executed ViewResult - view Index executed in 98.0755ms.
+2026-02-25 10:03:09.848 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 107.8154ms
+2026-02-25 10:03:09.849 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:03:09.853 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 323.2281ms
+2026-02-25 10:03:09.870 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:03:09.870 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:03:09.870 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:03:09.870 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:03:09.870 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:03:09.870 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:03:09.871 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:03:09.876 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.876 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.876 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.876 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.876 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.876 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.886 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 15.4874ms
+2026-02-25 10:03:09.891 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:03:09.891 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.892 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 21.2901ms
+2026-02-25 10:03:09.892 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:03:09.892 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:03:09.893 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.893 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 22.5723ms
+2026-02-25 10:03:09.892 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:03:09.894 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.894 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 23.5735ms
+2026-02-25 10:03:09.918 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:03:09.918 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:03:09.919 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.919 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.921 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 50.5835ms
+2026-02-25 10:03:09.921 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 50.0436ms
+2026-02-25 10:03:09.922 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:03:09.922 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:09.922 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 51.9173ms
+2026-02-25 10:03:09.966 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 74.2933ms
+2026-02-25 10:03:11.539 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/AddEmployee - null null
+2026-02-25 10:03:11.556 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:03:11.559 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:11.562 +05:30 [INF] Executing ViewResult, running view AddEmployee.
+2026-02-25 10:03:11.635 +05:30 [INF] Executed ViewResult - view AddEmployee executed in 75.19ms.
+2026-02-25 10:03:11.636 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 76.9985ms
+2026-02-25 10:03:11.636 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:03:11.636 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/AddEmployee - 200 null text/html; charset=utf-8 96.9482ms
+2026-02-25 10:03:11.652 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:03:11.654 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.656 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:03:11.656 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:03:11.656 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:03:11.656 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:03:11.656 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.657 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:03:11.657 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.657 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.7711ms
+2026-02-25 10:03:11.658 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.659 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:03:11.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:03:11.659 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:03:11.661 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.661 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 4.9206ms
+2026-02-25 10:03:11.661 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - null null
+2026-02-25 10:03:11.661 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:03:11.661 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.7465ms
+2026-02-25 10:03:11.661 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:03:11.661 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.661 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.661 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 9.7584ms
+2026-02-25 10:03:11.662 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.664 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:03:11.664 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - null null
+2026-02-25 10:03:11.664 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.664 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 5.2524ms
+2026-02-25 10:03:11.664 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.665 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\kmjncs0ttf-{0}-4v8eqarkd7-4v8eqarkd7.gz'
+2026-02-25 10:03:11.666 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.666 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation/dist/jquery.validate.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\628ugad138-{0}-ag7o75518u-ag7o75518u.gz'
+2026-02-25 10:03:11.666 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - 200 5857 text/javascript 5.1377ms
+2026-02-25 10:03:11.666 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.666 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - 200 25341 text/javascript 2.8403ms
+2026-02-25 10:03:11.672 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.687 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:03:11.687 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.687 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 30.8527ms
+2026-02-25 10:03:11.690 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 29.4509ms
+2026-02-25 10:03:11.711 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.714 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:03:11.714 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:11.714 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 58.046ms
+2026-02-25 10:03:14.457 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7001/Employee/AddEmployee - application/x-www-form-urlencoded 229
+2026-02-25 10:03:14.460 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:03:14.472 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(Employeee.Models.Employee) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:14.491 +05:30 [INF] Adding Employee with Id 1
+2026-02-25 10:03:14.491 +05:30 [INF] Employee Added Successfully
+2026-02-25 10:03:14.492 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:03:14.492 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 20.3441ms
+2026-02-25 10:03:14.492 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:03:14.492 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7001/Employee/AddEmployee - 302 null null 35.1418ms
+2026-02-25 10:03:14.496 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:03:14.497 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:03:14.497 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:14.497 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:03:14.499 +05:30 [INF] Executed ViewResult - view Index executed in 2.3105ms.
+2026-02-25 10:03:14.499 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 2.4259ms
+2026-02-25 10:03:14.499 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:03:14.499 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 3.7052ms
+2026-02-25 10:03:14.524 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:03:14.525 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.526 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:03:14.526 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:03:14.526 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:03:14.527 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.527 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.527 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.527 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:03:14.528 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.527 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:03:14.528 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.528 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.2674ms
+2026-02-25 10:03:14.528 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.3143ms
+2026-02-25 10:03:14.528 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:03:14.528 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:03:14.528 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.3625ms
+2026-02-25 10:03:14.528 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.529 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:03:14.529 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:03:14.530 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.530 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 3.3026ms
+2026-02-25 10:03:14.530 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:03:14.531 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.533 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:03:14.533 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.533 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 3.9602ms
+2026-02-25 10:03:14.535 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:03:14.535 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.535 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 10.9347ms
+2026-02-25 10:03:14.536 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:03:14.536 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:14.536 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 7.7032ms
+2026-02-25 10:03:14.542 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.8002ms
+2026-02-25 10:03:18.635 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/AddEmployee - null null
+2026-02-25 10:03:18.636 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:03:18.636 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:18.636 +05:30 [INF] Executing ViewResult, running view AddEmployee.
+2026-02-25 10:03:18.640 +05:30 [INF] Executed ViewResult - view AddEmployee executed in 4.0452ms.
+2026-02-25 10:03:18.645 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 8.3284ms
+2026-02-25 10:03:18.645 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:03:18.645 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/AddEmployee - 200 null text/html; charset=utf-8 10.0894ms
+2026-02-25 10:03:18.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:03:18.660 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:03:18.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:03:18.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:03:18.661 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.661 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.661 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.663 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:03:18.663 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.663 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 2.538ms
+2026-02-25 10:03:18.663 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:03:18.664 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.664 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:03:18.664 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.664 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 3.5444ms
+2026-02-25 10:03:18.664 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:03:18.665 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - null null
+2026-02-25 10:03:18.664 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - null null
+2026-02-25 10:03:18.665 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.665 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:03:18.665 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.665 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 4.9003ms
+2026-02-25 10:03:18.665 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:03:18.665 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.665 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 1.0226ms
+2026-02-25 10:03:18.666 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:03:18.667 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:03:18.667 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.667 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:03:18.667 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 7.2845ms
+2026-02-25 10:03:18.667 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.667 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 4.0864ms
+2026-02-25 10:03:18.668 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 1.7926ms
+2026-02-25 10:03:18.673 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.674 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\kmjncs0ttf-{0}-4v8eqarkd7-4v8eqarkd7.gz'
+2026-02-25 10:03:18.674 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.674 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - 200 5857 text/javascript 9.9024ms
+2026-02-25 10:03:18.674 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:03:18.677 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.678 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation/dist/jquery.validate.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\628ugad138-{0}-ag7o75518u-ag7o75518u.gz'
+2026-02-25 10:03:18.678 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:18.678 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - 200 25341 text/javascript 13.8513ms
+2026-02-25 10:03:18.679 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.3654ms
+2026-02-25 10:03:21.959 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7001/Employee/AddEmployee - application/x-www-form-urlencoded 229
+2026-02-25 10:03:21.961 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:03:21.961 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(Employeee.Models.Employee) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:21.962 +05:30 [INF] Adding Employee with Id 2
+2026-02-25 10:03:21.962 +05:30 [INF] Employee Added Successfully
+2026-02-25 10:03:21.962 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:03:21.962 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 1.3247ms
+2026-02-25 10:03:21.962 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:03:21.962 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7001/Employee/AddEmployee - 302 null null 2.7712ms
+2026-02-25 10:03:21.965 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:03:21.967 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:03:21.968 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:21.968 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:03:21.969 +05:30 [INF] Executed ViewResult - view Index executed in 1.2097ms.
+2026-02-25 10:03:21.969 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 1.2985ms
+2026-02-25 10:03:21.969 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:03:21.969 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 3.6235ms
+2026-02-25 10:03:21.990 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:03:21.990 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:03:21.990 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:03:21.990 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.990 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:03:21.990 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:03:21.991 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.991 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.991 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.991 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.991 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:03:21.991 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.991 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:03:21.991 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.991 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 0.7603ms
+2026-02-25 10:03:21.991 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 0.8272ms
+2026-02-25 10:03:21.992 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:03:21.992 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.992 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 1.5946ms
+2026-02-25 10:03:21.992 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:03:21.992 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.992 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 1.8358ms
+2026-02-25 10:03:21.993 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:03:21.993 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:03:21.993 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.993 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:03:21.993 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.993 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.7846ms
+2026-02-25 10:03:21.993 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 3.3059ms
+2026-02-25 10:03:21.994 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:03:21.994 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:21.994 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 1.1602ms
+2026-02-25 10:03:21.994 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:03:22.003 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 8.2398ms
+2026-02-25 10:03:25.820 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/Edit/1 - null null
+2026-02-25 10:03:25.825 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:03:25.828 +05:30 [INF] Route matched with {action = "Edit", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:25.831 +05:30 [INF] Executing ViewResult, running view Edit.
+2026-02-25 10:03:25.851 +05:30 [INF] Executed ViewResult - view Edit executed in 21.6936ms.
+2026-02-25 10:03:25.851 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Edit (Employeee) in 22.9675ms
+2026-02-25 10:03:25.851 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:03:25.851 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/Edit/1 - 200 null text/html; charset=utf-8 31.0568ms
+2026-02-25 10:03:25.872 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:03:25.872 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.872 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:03:25.872 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.874 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:03:25.876 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:03:25.876 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.876 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:03:25.877 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:03:25.877 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:03:25.877 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.877 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.877 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:03:25.877 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.877 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 4.6013ms
+2026-02-25 10:03:25.877 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.2353ms
+2026-02-25 10:03:25.877 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:03:25.877 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:03:25.877 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.877 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.1763ms
+2026-02-25 10:03:25.878 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.879 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:03:25.879 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.879 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 2.6604ms
+2026-02-25 10:03:25.881 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:03:25.881 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.881 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 7.5986ms
+2026-02-25 10:03:25.882 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:03:25.882 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.882 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 8.6507ms
+2026-02-25 10:03:25.882 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:03:25.882 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:25.883 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 11.0326ms
+2026-02-25 10:03:25.883 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.2553ms
+2026-02-25 10:03:32.417 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7001/Employee/Edit/1 - application/x-www-form-urlencoded 217
+2026-02-25 10:03:32.419 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:03:32.422 +05:30 [INF] Route matched with {action = "Edit", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Employeee.Models.Employee) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:32.424 +05:30 [INF] Editing Employee Id 1
+2026-02-25 10:03:32.424 +05:30 [INF] Employee Updated
+2026-02-25 10:03:32.424 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:03:32.424 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Edit (Employeee) in 2.6471ms
+2026-02-25 10:03:32.424 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:03:32.424 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7001/Employee/Edit/1 - 302 null null 7.2136ms
+2026-02-25 10:03:32.429 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:03:32.430 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:03:32.430 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:03:32.431 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:03:32.432 +05:30 [INF] Executed ViewResult - view Index executed in 0.9523ms.
+2026-02-25 10:03:32.432 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 1.1771ms
+2026-02-25 10:03:32.432 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:03:32.432 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 3.0633ms
+2026-02-25 10:03:32.458 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:03:32.458 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.461 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:03:32.461 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.461 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 3.3013ms
+2026-02-25 10:03:32.464 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:03:32.464 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:03:32.464 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.464 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.464 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:03:32.464 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:03:32.465 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.465 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.465 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:03:32.465 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:03:32.465 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.465 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.465 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.0088ms
+2026-02-25 10:03:32.465 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.0464ms
+2026-02-25 10:03:32.465 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:03:32.465 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.466 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:03:32.466 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.466 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 1.2807ms
+2026-02-25 10:03:32.467 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:03:32.467 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:03:32.467 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.467 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 2.303ms
+2026-02-25 10:03:32.467 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:03:32.467 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:03:32.467 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 2.5572ms
+2026-02-25 10:03:32.467 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.3583ms
+2026-02-25 10:03:32.468 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:03:32.473 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.9421ms
+2026-02-25 10:05:51.653 +05:30 [INF] User profile is available. Using 'C:\Users\Harsh Yadav\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-25 10:05:51.810 +05:30 [INF] Now listening on: https://localhost:7001
+2026-02-25 10:05:51.810 +05:30 [INF] Now listening on: http://localhost:5166
+2026-02-25 10:05:51.835 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-25 10:05:51.835 +05:30 [INF] Hosting environment: Development
+2026-02-25 10:05:51.835 +05:30 [INF] Content root path: C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee
+2026-02-25 10:05:52.381 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:05:52.491 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:05:52.507 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:05:52.513 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:05:52.582 +05:30 [INF] Executed ViewResult - view Index executed in 69.0617ms.
+2026-02-25 10:05:52.583 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 74.6385ms
+2026-02-25 10:05:52.583 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:05:52.587 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 206.8911ms
+2026-02-25 10:05:52.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:05:52.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:05:52.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:05:52.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:05:52.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:05:52.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:05:52.660 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:05:52.662 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:05:52.666 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.666 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.666 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.666 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.666 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.666 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.678 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 17.7183ms
+2026-02-25 10:05:52.683 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:05:52.695 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.695 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:05:52.695 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:05:52.695 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.695 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.695 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 35.1659ms
+2026-02-25 10:05:52.695 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 34.6196ms
+2026-02-25 10:05:52.695 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 35.209ms
+2026-02-25 10:05:52.704 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:05:52.704 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:05:52.704 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:05:52.706 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.706 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.706 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.708 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 47.9429ms
+2026-02-25 10:05:52.708 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 47.9523ms
+2026-02-25 10:05:52.708 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 47.8447ms
+2026-02-25 10:05:52.717 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.4241ms
+2026-02-25 10:05:52.771 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/favicon.ico - null null
+2026-02-25 10:05:52.777 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.791 +05:30 [INF] Sending file. Request path: 'favicon.ico'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\22m5xcw5h2-{0}-61n19gt1b8-61n19gt1b8.gz'
+2026-02-25 10:05:52.791 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:52.791 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/favicon.ico - 200 5463 image/x-icon 20.183ms
+2026-02-25 10:05:54.534 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/AddEmployee - null null
+2026-02-25 10:05:54.542 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:05:54.545 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:05:54.548 +05:30 [INF] Executing ViewResult, running view AddEmployee.
+2026-02-25 10:05:54.617 +05:30 [INF] Executed ViewResult - view AddEmployee executed in 70.2444ms.
+2026-02-25 10:05:54.622 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 76.9528ms
+2026-02-25 10:05:54.623 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:05:54.623 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/AddEmployee - 200 null text/html; charset=utf-8 89.0647ms
+2026-02-25 10:05:54.628 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:05:54.631 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.633 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:05:54.633 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:05:54.633 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:05:54.633 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:05:54.633 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:05:54.633 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.634 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:05:54.635 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.635 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.7948ms
+2026-02-25 10:05:54.635 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.635 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:05:54.636 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:05:54.636 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.636 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.636 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 7.3104ms
+2026-02-25 10:05:54.636 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - null null
+2026-02-25 10:05:54.636 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - null null
+2026-02-25 10:05:54.636 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:05:54.636 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.636 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.7932ms
+2026-02-25 10:05:54.636 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:05:54.636 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 3.2757ms
+2026-02-25 10:05:54.636 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.636 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.637 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.637 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 3.897ms
+2026-02-25 10:05:54.638 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:05:54.638 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation/dist/jquery.validate.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\628ugad138-{0}-ag7o75518u-ag7o75518u.gz'
+2026-02-25 10:05:54.638 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\kmjncs0ttf-{0}-4v8eqarkd7-4v8eqarkd7.gz'
+2026-02-25 10:05:54.638 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.638 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.638 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - 200 25341 text/javascript 1.9764ms
+2026-02-25 10:05:54.638 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - 200 5857 text/javascript 1.9758ms
+2026-02-25 10:05:54.648 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.662 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:05:54.662 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.663 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 29.6973ms
+2026-02-25 10:05:54.665 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.1821ms
+2026-02-25 10:05:54.683 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.685 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:05:54.685 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:54.685 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 51.7214ms
+2026-02-25 10:05:56.916 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7001/Employee/AddEmployee - application/x-www-form-urlencoded 229
+2026-02-25 10:05:56.918 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:05:56.927 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(Employeee.Models.Employee) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:05:56.941 +05:30 [INF] Adding Employee with Id 1
+2026-02-25 10:05:56.941 +05:30 [INF] Employee Added Successfully
+2026-02-25 10:05:56.941 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:05:56.941 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 14.4123ms
+2026-02-25 10:05:56.941 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:05:56.942 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7001/Employee/AddEmployee - 302 null null 25.4721ms
+2026-02-25 10:05:56.945 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:05:56.946 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:05:56.946 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:05:56.946 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:05:56.948 +05:30 [INF] Executed ViewResult - view Index executed in 1.6695ms.
+2026-02-25 10:05:56.948 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 1.7611ms
+2026-02-25 10:05:56.948 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:05:56.948 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 2.9935ms
+2026-02-25 10:05:56.972 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:05:56.973 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:05:56.973 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.973 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.974 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:05:56.974 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:05:56.974 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.974 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.5883ms
+2026-02-25 10:05:56.975 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:05:56.975 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:05:56.975 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.975 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.975 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:05:56.975 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.975 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:05:56.976 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.976 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.2964ms
+2026-02-25 10:05:56.976 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 1.1692ms
+2026-02-25 10:05:56.976 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:05:56.976 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:05:56.977 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.981 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:05:56.981 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.981 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:05:56.981 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.981 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 9.4665ms
+2026-02-25 10:05:56.981 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 5.3684ms
+2026-02-25 10:05:56.982 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:05:56.982 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.983 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 7.8661ms
+2026-02-25 10:05:56.984 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:05:56.984 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:56.984 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 9.1466ms
+2026-02-25 10:05:56.986 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.4234ms
+2026-02-25 10:05:58.309 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/AddEmployee - null null
+2026-02-25 10:05:58.312 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:05:58.313 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:05:58.313 +05:30 [INF] Executing ViewResult, running view AddEmployee.
+2026-02-25 10:05:58.324 +05:30 [INF] Executed ViewResult - view AddEmployee executed in 11.035ms.
+2026-02-25 10:05:58.326 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 12.7723ms
+2026-02-25 10:05:58.326 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:05:58.326 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/AddEmployee - 200 null text/html; charset=utf-8 17.5857ms
+2026-02-25 10:05:58.362 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:05:58.362 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.364 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:05:58.364 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:05:58.364 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.364 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.364 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:05:58.364 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:05:58.365 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.365 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.365 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:05:58.365 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.365 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.0807ms
+2026-02-25 10:05:58.365 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:05:58.365 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.365 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:05:58.365 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.0294ms
+2026-02-25 10:05:58.365 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.366 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:05:58.366 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.366 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 1.1164ms
+2026-02-25 10:05:58.367 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:05:58.367 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.367 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:05:58.367 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 2.1917ms
+2026-02-25 10:05:58.367 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:05:58.368 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.368 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 5.7321ms
+2026-02-25 10:05:58.368 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - null null
+2026-02-25 10:05:58.368 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - null null
+2026-02-25 10:05:58.369 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:05:58.369 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:05:58.369 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.370 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 5.1652ms
+2026-02-25 10:05:58.370 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 2.9107ms
+2026-02-25 10:05:58.378 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.379 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 9.4931ms
+2026-02-25 10:05:58.379 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\kmjncs0ttf-{0}-4v8eqarkd7-4v8eqarkd7.gz'
+2026-02-25 10:05:58.379 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.379 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - 200 5857 text/javascript 11.3768ms
+2026-02-25 10:05:58.382 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.383 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation/dist/jquery.validate.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\628ugad138-{0}-ag7o75518u-ag7o75518u.gz'
+2026-02-25 10:05:58.383 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:05:58.383 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - 200 25341 text/javascript 15.495ms
+2026-02-25 10:06:01.314 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7001/Employee/AddEmployee - application/x-www-form-urlencoded 229
+2026-02-25 10:06:01.315 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:06:01.315 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(Employeee.Models.Employee) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:06:01.318 +05:30 [INF] Adding Employee with Id 2
+2026-02-25 10:06:01.318 +05:30 [INF] Employee Added Successfully
+2026-02-25 10:06:01.318 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:06:01.318 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 1.8334ms
+2026-02-25 10:06:01.318 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:06:01.318 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7001/Employee/AddEmployee - 302 null null 4.619ms
+2026-02-25 10:06:01.323 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:06:01.324 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:06:01.324 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:06:01.324 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:06:01.327 +05:30 [INF] Executed ViewResult - view Index executed in 2.3386ms.
+2026-02-25 10:06:01.327 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 2.4559ms
+2026-02-25 10:06:01.327 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:06:01.327 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 3.9283ms
+2026-02-25 10:06:01.350 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:06:01.350 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.352 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:06:01.352 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.352 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 2.5616ms
+2026-02-25 10:06:01.354 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:06:01.354 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:06:01.355 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.355 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.357 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:06:01.357 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.357 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 2.5634ms
+2026-02-25 10:06:01.357 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:06:01.357 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.358 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 3.0769ms
+2026-02-25 10:06:01.359 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:06:01.359 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:06:01.359 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.359 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.359 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:06:01.360 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:06:01.360 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.360 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.8809ms
+2026-02-25 10:06:01.361 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:06:01.361 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.361 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 1.4594ms
+2026-02-25 10:06:01.361 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:06:01.361 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.361 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 2.5537ms
+2026-02-25 10:06:01.361 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:06:01.361 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:01.361 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 2.6871ms
+2026-02-25 10:06:01.362 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:06:01.368 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.7701ms
+2026-02-25 10:06:02.978 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/Edit/2 - null null
+2026-02-25 10:06:02.984 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:06:02.991 +05:30 [INF] Route matched with {action = "Edit", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:06:02.996 +05:30 [INF] Executing ViewResult, running view Edit.
+2026-02-25 10:06:03.021 +05:30 [INF] Executed ViewResult - view Edit executed in 27.491ms.
+2026-02-25 10:06:03.021 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Edit (Employeee) in 29.9561ms
+2026-02-25 10:06:03.021 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:06:03.021 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/Edit/2 - 200 null text/html; charset=utf-8 43.6381ms
+2026-02-25 10:06:03.045 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:06:03.045 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.045 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:06:03.045 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:06:03.045 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:06:03.046 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.046 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.046 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.046 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:06:03.048 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:06:03.048 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.048 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.048 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 2.3979ms
+2026-02-25 10:06:03.048 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:06:03.048 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:06:03.048 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:06:03.048 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.2504ms
+2026-02-25 10:06:03.048 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:06:03.049 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.049 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 3.2733ms
+2026-02-25 10:06:03.049 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.049 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:06:03.049 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.049 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 3.6525ms
+2026-02-25 10:06:03.049 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:06:03.049 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.049 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 1.6262ms
+2026-02-25 10:06:03.051 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:06:03.051 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.051 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 4.8391ms
+2026-02-25 10:06:03.054 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:06:03.054 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:03.054 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 9.2064ms
+2026-02-25 10:06:03.055 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.9377ms
+2026-02-25 10:06:05.782 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7001/Employee/Edit/2 - application/x-www-form-urlencoded 217
+2026-02-25 10:06:05.783 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:06:05.784 +05:30 [INF] Route matched with {action = "Edit", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Employeee.Models.Employee) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:06:05.786 +05:30 [INF] Editing Employee Id 2
+2026-02-25 10:06:05.786 +05:30 [INF] Employee Updated
+2026-02-25 10:06:05.786 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:06:05.786 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Edit (Employeee) in 1.5291ms
+2026-02-25 10:06:05.786 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:06:05.786 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7001/Employee/Edit/2 - 302 null null 4.228ms
+2026-02-25 10:06:05.790 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:06:05.791 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:06:05.791 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:06:05.791 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:06:05.792 +05:30 [INF] Executed ViewResult - view Index executed in 0.7173ms.
+2026-02-25 10:06:05.792 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 0.9207ms
+2026-02-25 10:06:05.792 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:06:05.792 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 2.3473ms
+2026-02-25 10:06:05.820 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:06:05.820 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.823 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:06:05.824 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.824 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 3.7102ms
+2026-02-25 10:06:05.825 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:06:05.826 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.826 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:06:05.827 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.827 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:06:05.827 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:06:05.827 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.9392ms
+2026-02-25 10:06:05.828 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.828 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.828 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:06:05.828 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.828 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.361ms
+2026-02-25 10:06:05.829 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:06:05.829 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.830 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:06:05.830 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.830 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 2.4896ms
+2026-02-25 10:06:05.831 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:06:05.831 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.831 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 1.988ms
+2026-02-25 10:06:05.831 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:06:05.831 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.832 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:06:05.832 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:06:05.832 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:05.832 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.2576ms
+2026-02-25 10:06:05.832 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 0.8564ms
+2026-02-25 10:06:05.834 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:06:05.839 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.4075ms
+2026-02-25 10:06:07.436 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/Delete/2 - null null
+2026-02-25 10:06:07.438 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Delete (Employeee)'
+2026-02-25 10:06:07.440 +05:30 [INF] Route matched with {action = "Delete", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Delete(Int32) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:06:07.442 +05:30 [WRN] Deleting Employee Id 2
+2026-02-25 10:06:07.442 +05:30 [WRN] Employee Removed
+2026-02-25 10:06:07.443 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:06:07.443 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Delete (Employeee) in 2.3463ms
+2026-02-25 10:06:07.443 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Delete (Employeee)'
+2026-02-25 10:06:07.443 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/Delete/2 - 302 null null 6.8069ms
+2026-02-25 10:06:07.451 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:06:07.453 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:06:07.453 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:06:07.454 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:06:07.454 +05:30 [INF] Executed ViewResult - view Index executed in 0.9578ms.
+2026-02-25 10:06:07.455 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 1.1641ms
+2026-02-25 10:06:07.455 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:06:07.455 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 3.8433ms
+2026-02-25 10:06:07.490 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:06:07.490 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.497 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:06:07.497 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:06:07.497 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.498 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 7.7227ms
+2026-02-25 10:06:07.498 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.498 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:06:07.498 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.498 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:06:07.498 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.499 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:06:07.499 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.499 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.4449ms
+2026-02-25 10:06:07.499 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:06:07.499 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.499 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:06:07.499 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.500 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.7574ms
+2026-02-25 10:06:07.501 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:06:07.501 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 2.017ms
+2026-02-25 10:06:07.501 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:06:07.502 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:06:07.502 +05:30 [I2026-02-25 10:06:07.501 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+NF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.502 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.1752ms
+2026-02-25 10:06:07.502 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 3.3795ms
+2026-02-25 10:06:07.504 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:06:07.504 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:06:07.504 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.505 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:06:07.505 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:06:07.505 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 0.9327ms
+2026-02-25 10:06:07.510 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.8598ms
+2026-02-25 10:21:25.484 +05:30 [INF] User profile is available. Using 'C:\Users\Harsh Yadav\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-25 10:21:25.706 +05:30 [INF] Now listening on: https://localhost:7001
+2026-02-25 10:21:25.706 +05:30 [INF] Now listening on: http://localhost:5166
+2026-02-25 10:21:25.732 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-25 10:21:25.732 +05:30 [INF] Hosting environment: Development
+2026-02-25 10:21:25.732 +05:30 [INF] Content root path: C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee
+2026-02-25 10:21:26.093 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:21:26.221 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:21:26.260 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:21:26.266 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:21:26.350 +05:30 [INF] Executed ViewResult - view Index executed in 85.1698ms.
+2026-02-25 10:21:26.351 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 90.3168ms
+2026-02-25 10:21:26.351 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:21:26.355 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 265.3912ms
+2026-02-25 10:21:26.363 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:21:26.364 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:21:26.364 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:21:26.364 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:21:26.364 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:21:26.366 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:21:26.368 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.368 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.368 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.368 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.368 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.368 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.375 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:21:26.375 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:21:26.391 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:21:26.391 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.392 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:21:26.392 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:21:26.392 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.392 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.392 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 25.5129ms
+2026-02-25 10:21:26.392 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 27.4061ms
+2026-02-25 10:21:26.392 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 27.4502ms
+2026-02-25 10:21:26.396 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 20.5265ms
+2026-02-25 10:21:26.400 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:21:26.400 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:21:26.400 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:21:26.401 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.401 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.401 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.403 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 40.012ms
+2026-02-25 10:21:26.403 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 38.8008ms
+2026-02-25 10:21:26.403 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 38.8871ms
+2026-02-25 10:21:26.422 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.3011ms
+2026-02-25 10:21:26.468 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/favicon.ico - null null
+2026-02-25 10:21:26.473 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.475 +05:30 [INF] Sending file. Request path: 'favicon.ico'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\22m5xcw5h2-{0}-61n19gt1b8-61n19gt1b8.gz'
+2026-02-25 10:21:26.475 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:26.476 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/favicon.ico - 200 5463 image/x-icon 7.5127ms
+2026-02-25 10:21:29.919 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/AddEmployee - null null
+2026-02-25 10:21:29.927 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:21:29.931 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:21:29.933 +05:30 [INF] Executing ViewResult, running view AddEmployee.
+2026-02-25 10:21:30.003 +05:30 [INF] Executed ViewResult - view AddEmployee executed in 70.9729ms.
+2026-02-25 10:21:30.008 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 77.0417ms
+2026-02-25 10:21:30.008 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:21:30.009 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/AddEmployee - 200 null text/html; charset=utf-8 89.4139ms
+2026-02-25 10:21:30.016 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:21:30.016 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:21:30.016 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:21:30.016 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:21:30.017 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.017 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:21:30.017 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:21:30.018 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:21:30.018 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.018 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.6391ms
+2026-02-25 10:21:30.019 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - null null
+2026-02-25 10:21:30.019 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.019 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.020 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.020 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:21:30.020 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.020 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 3.6301ms
+2026-02-25 10:21:30.020 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - null null
+2026-02-25 10:21:30.021 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.020 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:21:30.021 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.021 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:21:30.022 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:21:30.022 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 1.263ms
+2026-02-25 10:21:30.023 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.023 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 5.5228ms
+2026-02-25 10:21:30.023 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation/dist/jquery.validate.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\628ugad138-{0}-ag7o75518u-ag7o75518u.gz'
+2026-02-25 10:21:30.023 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.025 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\kmjncs0ttf-{0}-4v8eqarkd7-4v8eqarkd7.gz'
+2026-02-25 10:21:30.025 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.025 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - 200 5857 text/javascript 5.0674ms
+2026-02-25 10:21:30.025 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - 200 25341 text/javascript 4.3971ms
+2026-02-25 10:21:30.029 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:21:30.030 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.030 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 13.4494ms
+2026-02-25 10:21:30.035 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.049 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:21:30.049 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.049 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 32.4403ms
+2026-02-25 10:21:30.051 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.2328ms
+2026-02-25 10:21:30.072 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.074 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:21:30.074 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:30.074 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 56.9042ms
+2026-02-25 10:21:32.765 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7001/Employee/AddEmployee - application/x-www-form-urlencoded 229
+2026-02-25 10:21:32.768 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:21:32.782 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(Employeee.Models.Employee) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:21:32.799 +05:30 [INF] Adding Employee with Id 1
+2026-02-25 10:21:32.799 +05:30 [INF] Employee Added Successfully
+2026-02-25 10:21:32.799 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:21:32.799 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 17.7148ms
+2026-02-25 10:21:32.800 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:21:32.800 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7001/Employee/AddEmployee - 302 null null 35.1409ms
+2026-02-25 10:21:32.803 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:21:32.804 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:21:32.804 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:21:32.804 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:21:32.807 +05:30 [INF] Executed ViewResult - view Index executed in 2.8929ms.
+2026-02-25 10:21:32.807 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 3.0741ms
+2026-02-25 10:21:32.807 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:21:32.808 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 4.7812ms
+2026-02-25 10:21:32.835 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:21:32.836 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.840 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:21:32.840 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.841 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 5.4068ms
+2026-02-25 10:21:32.841 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:21:32.841 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:21:32.842 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.844 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.845 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:21:32.845 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:21:32.846 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.846 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.846 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:21:32.846 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:21:32.846 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.846 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.846 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 5.0442ms
+2026-02-25 10:21:32.846 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 5.0282ms
+2026-02-25 10:21:32.847 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:21:32.847 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.2906ms
+2026-02-25 10:21:32.847 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:21:32.847 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.847 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 2.3222ms
+2026-02-25 10:21:32.848 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:21:32.848 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.848 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 2.5431ms
+2026-02-25 10:21:32.849 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:21:32.849 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:21:32.849 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.851 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:21:32.851 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:21:32.851 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 2.68ms
+2026-02-25 10:21:32.859 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.3052ms
+2026-02-25 10:22:53.582 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/AddEmployee - null null
+2026-02-25 10:22:53.585 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:22:53.585 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:22:53.586 +05:30 [INF] Executing ViewResult, running view AddEmployee.
+2026-02-25 10:22:53.591 +05:30 [INF] Executed ViewResult - view AddEmployee executed in 5.4844ms.
+2026-02-25 10:22:53.593 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 7.0163ms
+2026-02-25 10:22:53.593 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:22:53.594 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/AddEmployee - 200 null text/html; charset=utf-8 11.7708ms
+2026-02-25 10:22:53.617 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:22:53.617 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.620 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:22:53.620 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:22:53.620 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:22:53.621 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.621 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 3.829ms
+2026-02-25 10:22:53.621 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.621 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.621 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:22:53.621 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:22:53.621 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.621 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.621 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.0896ms
+2026-02-25 10:22:53.621 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.0906ms
+2026-02-25 10:22:53.622 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:22:53.622 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:22:53.622 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.622 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.623 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:22:53.623 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - null null
+2026-02-25 10:22:53.623 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - null null
+2026-02-25 10:22:53.624 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.624 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:22:53.625 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.625 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 2.9192ms
+2026-02-25 10:22:53.625 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:22:53.625 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.625 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 3.0931ms
+2026-02-25 10:22:53.625 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:22:53.625 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.625 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 2.2309ms
+2026-02-25 10:22:53.626 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:22:53.626 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.2295ms
+2026-02-25 10:22:53.628 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:22:53.631 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.633 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\kmjncs0ttf-{0}-4v8eqarkd7-4v8eqarkd7.gz'
+2026-02-25 10:22:53.633 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.633 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js - 200 5857 text/javascript 10.1393ms
+2026-02-25 10:22:53.635 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.636 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.8657ms
+2026-02-25 10:22:53.637 +05:30 [INF] Sending file. Request path: 'lib/jquery-validation/dist/jquery.validate.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\628ugad138-{0}-ag7o75518u-ag7o75518u.gz'
+2026-02-25 10:22:53.637 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:22:53.637 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery-validation/dist/jquery.validate.min.js - 200 25341 text/javascript 13.994ms
+2026-02-25 10:23:00.547 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7001/Employee/AddEmployee - application/x-www-form-urlencoded 229
+2026-02-25 10:23:00.548 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:23:00.548 +05:30 [INF] Route matched with {action = "AddEmployee", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(Employeee.Models.Employee) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:23:00.549 +05:30 [INF] Adding Employee with Id 2
+2026-02-25 10:23:00.549 +05:30 [INF] Employee Added Successfully
+2026-02-25 10:23:00.549 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:23:00.549 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.AddEmployee (Employeee) in 1.0786ms
+2026-02-25 10:23:00.549 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.AddEmployee (Employeee)'
+2026-02-25 10:23:00.549 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7001/Employee/AddEmployee - 302 null null 2.3881ms
+2026-02-25 10:23:00.553 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:23:00.554 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:23:00.554 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:23:00.554 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:23:00.555 +05:30 [INF] Executed ViewResult - view Index executed in 1.4735ms.
+2026-02-25 10:23:00.555 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 1.6435ms
+2026-02-25 10:23:00.556 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:23:00.556 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 3.0868ms
+2026-02-25 10:23:00.581 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:23:00.582 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.584 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:23:00.584 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.584 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 2.2708ms
+2026-02-25 10:23:00.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:23:00.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:23:00.587 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.587 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.588 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:23:00.588 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:23:00.589 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:23:00.589 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.589 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:23:00.589 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.589 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.9935ms
+2026-02-25 10:23:00.589 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.589 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.589 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:23:00.589 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.589 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:23:00.589 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.589 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 0.7898ms
+2026-02-25 10:23:00.590 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.8035ms
+2026-02-25 10:23:00.590 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:23:00.590 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.591 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 2.213ms
+2026-02-25 10:23:00.598 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:23:00.598 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:23:00.598 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 7.4361ms
+2026-02-25 10:23:00.600 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:23:00.600 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:00.600 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 11.9011ms
+2026-02-25 10:23:00.602 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.3094ms
+2026-02-25 10:23:03.524 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employee/Edit/2 - null null
+2026-02-25 10:23:03.528 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:23:03.532 +05:30 [INF] Route matched with {action = "Edit", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:23:03.533 +05:30 [INF] Executing ViewResult, running view Edit.
+2026-02-25 10:23:03.553 +05:30 [INF] Executed ViewResult - view Edit executed in 20.3421ms.
+2026-02-25 10:23:03.553 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Edit (Employeee) in 21.3356ms
+2026-02-25 10:23:03.553 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:23:03.553 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employee/Edit/2 - 200 null text/html; charset=utf-8 29.3965ms
+2026-02-25 10:23:03.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:23:03.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:23:03.587 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:23:03.588 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.588 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.588 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.588 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:23:03.588 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.588 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:23:03.588 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.588 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:23:03.588 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.589 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 0.9962ms
+2026-02-25 10:23:03.589 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:23:03.589 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.589 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.1429ms
+2026-02-25 10:23:03.590 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:23:03.590 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.590 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 1.822ms
+2026-02-25 10:23:03.590 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:23:03.590 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.590 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 1.725ms
+2026-02-25 10:23:03.591 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:23:03.591 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:23:03.591 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.591 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 3.8278ms
+2026-02-25 10:23:03.592 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.7555ms
+2026-02-25 10:23:03.593 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:23:03.593 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:23:03.593 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.594 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:23:03.594 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:03.594 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 1.6406ms
+2026-02-25 10:23:03.599 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.0208ms
+2026-02-25 10:23:15.360 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7001/Employee/Edit/2 - application/x-www-form-urlencoded 220
+2026-02-25 10:23:15.362 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:23:15.364 +05:30 [INF] Route matched with {action = "Edit", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Employeee.Models.Employee) on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:23:15.366 +05:30 [INF] Editing Employee Id 2
+2026-02-25 10:23:15.367 +05:30 [INF] Employee Updated
+2026-02-25 10:23:15.367 +05:30 [INF] Executing RedirectResult, redirecting to /.
+2026-02-25 10:23:15.367 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Edit (Employeee) in 2.8107ms
+2026-02-25 10:23:15.367 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Edit (Employeee)'
+2026-02-25 10:23:15.367 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7001/Employee/Edit/2 - 302 null null 7.0794ms
+2026-02-25 10:23:15.372 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2026-02-25 10:23:15.373 +05:30 [INF] Executing endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:23:15.373 +05:30 [INF] Route matched with {action = "Index", controller = "Employee"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Employeee.Controllers.EmployeeController (Employeee).
+2026-02-25 10:23:15.373 +05:30 [INF] Executing ViewResult, running view Index.
+2026-02-25 10:23:15.374 +05:30 [INF] Executed ViewResult - view Index executed in 0.8015ms.
+2026-02-25 10:23:15.374 +05:30 [INF] Executed action Employeee.Controllers.EmployeeController.Index (Employeee) in 0.9915ms
+2026-02-25 10:23:15.374 +05:30 [INF] Executed endpoint 'Employeee.Controllers.EmployeeController.Index (Employeee)'
+2026-02-25 10:23:15.375 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 2.9378ms
+2026-02-25 10:23:15.403 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-02-25 10:23:15.403 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - null null
+2026-02-25 10:23:15.403 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.403 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.404 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - null null
+2026-02-25 10:23:15.404 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2026-02-25 10:23:15.404 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-02-25 10:23:15.404 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.404 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.404 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.404 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-02-25 10:23:15.404 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.405 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2026-02-25 10:23:15.405 +05:30 [INF] Sending file. Request path: 'css/site.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\tgx7k60haw-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-02-25 10:23:15.405 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.405 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg - 200 700 text/css 1.8719ms
+2026-02-25 10:23:15.405 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 16503 application/javascript; charset=utf-8 0.4298ms
+2026-02-25 10:23:15.405 +05:30 [INF] Sending file. Request path: 'Employeee.styles.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\9ajcwt9tcy-{0}-vca7tm8pfk-vca7tm8pfk.gz'
+2026-02-25 10:23:15.405 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.405 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/Employeee.styles.css?v=L0WSmDaDZ2I-_fO2J0FpRRjUr_00QWn8pGCMGDZLzpY - 200 1142 text/css 1.7539ms
+2026-02-25 10:23:15.406 +05:30 [INF] Sending file. Request path: 'js/site.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\5ugppqv4m8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-02-25 10:23:15.406 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.406 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\xknr52zz1c-{0}-493y06b0oq-493y06b0oq.gz'
+2026-02-25 10:23:15.406 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 200 264 text/javascript 1.6359ms
+2026-02-25 10:23:15.406 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.406 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80764 text/javascript 2.2494ms
+2026-02-25 10:23:15.406 +05:30 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.js'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\szz4wu6nwl-{0}-o1o13a6vjx-o1o13a6vjx.gz'
+2026-02-25 10:23:15.406 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.406 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 200 87576 text/javascript 2.382ms
+2026-02-25 10:23:15.407 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2026-02-25 10:23:15.407 +05:30 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\DotNetTraining\23Feb-3Tier\Employeee\Employeee\obj\Debug\net10.0\compressed\re09v0v7pt-{0}-46ein0sx1k-46ein0sx1k.gz'
+2026-02-25 10:23:15.407 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-02-25 10:23:15.407 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 200 232871 text/css 4.0201ms
+2026-02-25 10:23:15.411 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 3.5828ms

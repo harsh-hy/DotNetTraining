@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38591772-0A39-43FE-99CA-36B6ACE8F931}|Middleware\\Middleware.csproj|d:\\middleware\\middleware\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38591772-0A39-43FE-99CA-36B6ACE8F931}|Middleware\\Middleware.csproj|solutionrelative:middleware\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38591772-0A39-43FE-99CA-36B6ACE8F931}|Middleware\\Middleware.csproj|d:\\middleware\\middleware\\models\\queryblockmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38591772-0A39-43FE-99CA-36B6ACE8F931}|Middleware\\Middleware.csproj|solutionrelative:middleware\\models\\queryblockmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38591772-0A39-43FE-99CA-36B6ACE8F931}|Middleware\\Middleware.csproj|d:\\middleware\\middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38591772-0A39-43FE-99CA-36B6ACE8F931}|Middleware\\Middleware.csproj|solutionrelative:middleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Middleware\\Middleware\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Middleware\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Middleware\\Middleware\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Middleware\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:16:08.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Middleware\\Middleware\\Program.cs",
+              "RelativeDocumentMoniker": "Middleware\\Program.cs",
+              "ToolTip": "D:\\Middleware\\Middleware\\Program.cs",
+              "RelativeToolTip": "Middleware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:15:22.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryBlockMiddleware.cs",
+              "DocumentMoniker": "D:\\Middleware\\Middleware\\Models\\QueryBlockMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\Models\\QueryBlockMiddleware.cs",
+              "ToolTip": "D:\\Middleware\\Middleware\\Models\\QueryBlockMiddleware.cs",
+              "RelativeToolTip": "Middleware\\Models\\QueryBlockMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:15:01.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

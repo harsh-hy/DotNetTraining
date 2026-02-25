@@ -1,19 +1,45 @@
 ﻿@model Employeee.Models.Employee
 
-<h2>Edit Employee</h2>
+@{
+    ViewData["Title"] = "Edit Employee";
+}
 
-<form asp-action="Edit">
-    <input type="hidden" asp-for="Id" />
+<h2 class="mb-4">Edit Employee</h2>
 
-    <label>Name</label>
-    <input asp-for="Name" />
+<div class="row">
+    <div class="col-md-6">
+        <div class="card shadow-sm p-4">
 
-    <label>Department</label>
-    <input asp-for="Department" />
+            <form asp-action="Edit">
+                <input type="hidden" asp-for="Id" />
 
-    <label>City</label>
-    <input asp-for="City" />
+                <div class="form-group mb-3">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
 
-    <button type="submit">Update</button>
+                <div class="form-group mb-3">
+                    <label asp-for="Department" class="control-label"></label>
+                    <select asp-for="Department"
+                            class="form-control"
+                            asp-items="@(new SelectList(ViewBag.Departments))">
+                    </select>
+                    <span asp-validation-for="Department" class="text-danger"></span>
+                </div>
 
-</form>
+                <div class="form-group mb-3">
+                    <label asp-for="City" class="control-label"></label>
+                    <input asp-for="City" class="form-control" />
+                    <span asp-validation-for="City" class="text-danger"></span>
+                </div>
+
+                <div class="mt-3">
+                    <button type="submit" class="btn btn-warning">Update</button>
+                    <a asp-action="Index" class="btn btn-secondary ms-2">Back</a>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>
