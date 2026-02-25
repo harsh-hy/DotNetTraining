@@ -9,7 +9,7 @@ namespace Employeee.Controllers
 
         public IActionResult Index()
         {
-            return View("../Employee/AddEmployee");
+            return View();
         }
         //public IActionResult AddEmployee()
         //{

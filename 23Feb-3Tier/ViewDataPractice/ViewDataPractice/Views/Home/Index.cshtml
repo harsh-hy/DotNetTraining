@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    string data = ViewData["MyVariable"] as string;
+    string[] parts = data.Split(",");
+
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <marquee>
+    @foreach (string item in parts)
+    {
+        <h2>@item</h2>
+    }
+    </marquee>
+</div>

@@ -6,14 +6,10 @@ namespace Employeee.Models
     {
         [Display(Name = "Employee ID")]
         public int Id { get; set; }
-
-        [Display(Name = "Employee Name")]
+        [Required(ErrorMessage = "Name is required")]
+        [MinLength(3, ErrorMessage = "Name must be at least 3 characters long")]
         public string? Name { get; set; }
-
-        [Display(Name = "Employee Department")]
         public string? Department { get; set; }
-
-        [Display(Name = "Employee City")]
         public string? City { get; set; }
     }
 }

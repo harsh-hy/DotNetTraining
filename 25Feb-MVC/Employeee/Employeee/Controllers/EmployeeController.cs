@@ -18,7 +18,7 @@ namespace Employeee.Controllers
         };
         private static List<Employee> empList = new List<Employee>();
 
-        // READ AL
+        // READ AL 
         public IActionResult Index()
         {
             return View(empList);
