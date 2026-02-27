@@ -1,0 +1,28 @@
+﻿@model TodoAppMvc.Models.TodoItem
+
+@{
+    ViewData["Title"] = "Create Todo";
+}
+
+<h2>Add New Todo</h2>
+
+<form asp-controller="Todo" asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-success">Add</button>
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

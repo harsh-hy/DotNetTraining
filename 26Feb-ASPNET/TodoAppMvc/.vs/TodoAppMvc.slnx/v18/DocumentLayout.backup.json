@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\data\\migrations\\20260226091414_addtodotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\data\\migrations\\20260226091414_addtodotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EE294-3A55-B099-90B1-EC95F06F6B9E}|TodoAppMvc\\TodoAppMvc.csproj|solutionrelative:todoappmvc\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "TodoAppMvc\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:47:55.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TodoAppMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:45:32.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoAppMvc\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:28:34.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Program.cs",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Program.cs",
+              "RelativeToolTip": "TodoAppMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:20:36.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoAppMvc\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:16:59.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoAppMvc\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:15:16.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TodoAppMvc\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:10:32.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "TodoAppMvc\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T09:24:30.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260226091414_AddTodoTable.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Data\\Migrations\\20260226091414_AddTodoTable.cs",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Data\\Migrations\\20260226091414_AddTodoTable.cs",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Data\\Migrations\\20260226091414_AddTodoTable.cs",
+              "RelativeToolTip": "TodoAppMvc\\Data\\Migrations\\20260226091414_AddTodoTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:14:14.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoAppMvc\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:08:53.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TodoAppMvc\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "TodoAppMvc\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:10:11.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

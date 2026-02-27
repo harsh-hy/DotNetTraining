@@ -1,0 +1,58 @@
+﻿@model List<TodoAppMvc.Models.TodoItem>
+
+@{
+    ViewData["Title"] = "My Todos";
+}
+
+<h2>My Todo List</h2>
+
+<a asp-controller="Todo" asp-action="Create" class="btn btn-primary">Add Todo</a>
+
+<hr />
+
+@if (!Model.Any())
+{
+    <p>No todos yet.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Title</td>
+                    <td>
+                        @(item.IsCompleted ? "Completed" : "Pending")
+                    </td>
+                    <td>
+                        <a asp-action="Edit"
+                           asp-route-id="@item.Id"
+                           class="btn btn-sm btn-info">
+                            Edit
+                        </a>
+
+                        <a asp-action="Toggle"
+                           asp-route-id="@item.Id"
+                           class="btn btn-sm btn-warning">
+                            Toggle
+                        </a>
+
+                        <a asp-action="Delete"
+                           asp-route-id="@item.Id"
+                           class="btn btn-sm btn-danger">
+                            Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

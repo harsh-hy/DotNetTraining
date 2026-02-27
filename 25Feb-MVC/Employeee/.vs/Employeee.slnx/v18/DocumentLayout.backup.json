@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\25feb-mvc\\employeee\\employeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\25feb-mvc\\employeee\\employeee\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\25feb-mvc\\employeee\\employeee\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\25feb-mvc\\employeee\\employeee\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\25feb-mvc\\employeee\\employeee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\25feb-mvc\\employeee\\employeee\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|c:\\dotnettraining\\25feb-mvc\\employeee\\employeee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4039AAE5-2AB5-6C90-2506-DE0309705FBE}|Employeee\\Employeee.csproj|solutionrelative:employeee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Employeee\\Views\\Home\\Index.cshtml",
@@ -56,81 +32,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Employeee\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Employeee\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T10:04:42.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Employeee\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Employeee\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:02:03.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Employeee\\Models\\Employee.cs",
-              "ToolTip": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Models\\Employee.cs",
-              "RelativeToolTip": "Employeee\\Models\\Employee.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T09:24:21.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Employeee\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "Employeee\\Views\\Employee\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-25T06:45:29.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Employeee\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Employeee\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T06:34:14.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Program.cs",
-              "RelativeDocumentMoniker": "Employeee\\Program.cs",
-              "ToolTip": "C:\\DotNetTraining\\25Feb-MVC\\Employeee\\Employeee\\Program.cs",
-              "RelativeToolTip": "Employeee\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T06:29:12.024Z",
-              "EditorCaption": ""
             }
           ]
         }

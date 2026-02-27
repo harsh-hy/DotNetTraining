@@ -1,0 +1,23 @@
+@model IEnumerable<DbFirstDemo.Models.Students>
+@foreach (var s in Model)
+{
+    <tr>
+        <td>@s.StudentId</td>
+        <td>@s.FullName</td>
+        <td>
+            @if (s.Enrollments.Any())
+            {
+                <ul>
+                    @foreach (var e in s.Enrollments)
+                    {
+                        <li>@e.Course.CourseName</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <span>No Courses</span>
+            }
+        </td>
+    </tr>
+}

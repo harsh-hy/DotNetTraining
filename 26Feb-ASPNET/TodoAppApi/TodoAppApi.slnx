@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TodoAppMvc/TodoAppMvc/TodoAppMvc.csproj" />
+  <Project Path="TodoAppApi/TodoAppApi.csproj" />
+</Solution>

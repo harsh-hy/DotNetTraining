@@ -1,14 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\23Feb-3Tier\\BuisnessLogic",
-    "\\23Feb-3Tier\\DAL",
-    "\\25Feb-MVC",
-    "\\25Feb-MVC\\Employeee",
-    "\\25Feb-MVC\\Employeee\\Employeee",
-    "\\25Feb-MVC\\Employeee\\Employeee\\Views",
-    "\\25Feb-MVC\\Employeee\\Employeee\\Views\\Employee"
+    "\\26Feb-ASPNET"
   ],
-  "SelectedNode": "\\25Feb-MVC\\Employeee\\Employeee\\Views\\Employee\\Edit.cshtml",
   "PreviewInSolutionExplorer": false
 }
