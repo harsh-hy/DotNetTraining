@@ -1,0 +1,75 @@
+﻿@{
+    ViewData["Title"] = "XMLHttpRequest Demo";
+}
+
+<h2>Todo List (XMLHttpRequest + Dropdown)</h2>
+
+<select id="todoFilter" onchange="loadTodos()">
+    <option value="">-- Select Filter --</option>
+    <option value="all">All Todos</option>
+    <option value="completed">Completed</option>
+    <option value="pending">Pending</option>
+</select>
+
+<ul id="todoList"></ul>
+
+@section Scripts{
+    <script>
+
+        function loadTodos() {
+
+            const filter = document.getElementById("todoFilter").value;
+
+            if (filter === "") return;
+
+            const xhr = new XMLHttpRequest();
+
+            const url = 'https://jsonplaceholder.typicode.com/todos';
+
+            xhr.onload = function () {
+
+                if (xhr.status >= 200 && xhr.status < 300) {
+
+                    const todos = JSON.parse(xhr.responseText);
+
+                    const list = document.getElementById("todoList");
+                    list.innerHTML = "";
+
+                    let filteredTodos = todos.slice(0, 20);
+
+                    if (filter === "completed") {
+                        filteredTodos = filteredTodos.filter(t => t.completed);
+                    }
+
+                    if (filter === "pending") {
+                        filteredTodos = filteredTodos.filter(t => !t.completed);
+                    }
+
+                    filteredTodos.forEach(todo => {
+
+                        const li = document.createElement("li");
+
+                        li.innerHTML =
+                            todo.title +
+                            (todo.completed ? " ✅" : " ❌");
+
+                        list.appendChild(li);
+                    });
+
+                } else {
+
+                    console.error('HTTP Error:', xhr.status, xhr.statusText);
+
+                }
+            };
+
+            xhr.onerror = function () {
+                console.error('Network error occurred');
+            };
+
+            xhr.open('GET', url, true);
+            xhr.send();
+        }
+
+    </script>
+}

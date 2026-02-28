@@ -1,0 +1,86 @@
+﻿@model object
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Search Results</h2>
+
+    @if (Model is IEnumerable<FlightResult> flights)
+    {
+        if (!flights.Any())
+        {
+            <div class="alert alert-danger text-center">
+                No Flight Results Found
+            </div>
+        }
+        else
+        {
+            <table class="table table-bordered table-striped shadow-sm">
+                <thead class="table-dark">
+                    <tr>
+                        <th>FlightId</th>
+                        <th>FlightName</th>
+                        <th>FlightType</th>
+                        <th>Source</th>
+                        <th>Destination</th>
+                        <th>TotalCost</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in flights)
+                    {
+                        <tr>
+                            <td>@item.FlightId</td>
+                            <td>@item.FlightName</td>
+                            <td>@item.FlightType</td>
+                            <td>@item.Source</td>
+                            <td>@item.Destination</td>
+                            <td>₹ @item.TotalCost</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    }
+    else if (Model is IEnumerable<FlightHotelResult> packages)
+    {
+        if (!packages.Any())
+        {
+            <div class="alert alert-danger text-center">
+                No Flight + Hotel Results Found
+            </div>
+        }
+        else
+        {
+            <table class="table table-bordered table-striped shadow-sm">
+                <thead class="table-dark">
+                    <tr>
+                        <th>FlightId</th>
+                        <th>FlightName</th>
+                        <th>Source</th>
+                        <th>Destination</th>
+                        <th>HotelName</th>
+                        <th>TotalCost</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in packages)
+                    {
+                        <tr>
+                            <td>@item.FlightId</td>
+                            <td>@item.FlightName</td>
+                            <td>@item.Source</td>
+                            <td>@item.Destination</td>
+                            <td>@item.HotelName</td>
+                            <td>₹ @item.TotalCost</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    }
+
+    <div class="text-center mt-4">
+        <a asp-action="Index" class="btn btn-secondary">
+            Back to Search
+        </a>
+    </div>
+</div>

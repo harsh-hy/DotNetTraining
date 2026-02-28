@@ -7,20 +7,26 @@
       "RelativeMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|solutionrelative:todoappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappapi\\todoappapi\\migrations\\20260227064243_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|solutionrelative:todoappapi\\migrations\\20260227064243_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88FCA373-763F-22C9-0E06-F67EECF72EB2}|..\\TodoAppMvc\\TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappapi\\todoappapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|solutionrelative:todoappapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappapi\\todoappapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|solutionrelative:todoappapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappapi\\todoappapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|solutionrelative:todoappapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88FCA373-763F-22C9-0E06-F67EECF72EB2}|..\\TodoAppMvc\\TodoAppMvc\\TodoAppMvc.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappmvc\\todoappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappapi\\todoappapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|solutionrelative:todoappapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappapi\\todoappapi\\migrations\\20260227064243_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|solutionrelative:todoappapi\\migrations\\20260227064243_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|c:\\dotnettraining\\26feb-aspnet\\todoappapi\\todoappapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FFC71E-9FD0-8EC8-1047-2A5861AE3DB8}|TodoAppApi\\TodoAppApi.csproj|solutionrelative:todoappapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +36,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +45,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\TodoAppMvc\\TodoAppMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\TodoAppMvc\\TodoAppMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T08:42:57.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TodoAppMvc\\TodoAppMvc\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppMvc\\TodoAppMvc\\Program.cs",
+              "RelativeToolTip": "..\\TodoAppMvc\\TodoAppMvc\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:54:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20260227064243_InitialCreate.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppApi\\TodoAppApi\\Migrations\\20260227064243_InitialCreate.cs",
               "RelativeDocumentMoniker": "TodoAppApi\\Migrations\\20260227064243_InitialCreate.cs",
@@ -46,11 +78,12 @@
               "RelativeToolTip": "TodoAppApi\\Migrations\\20260227064243_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T06:42:45.079Z"
+              "WhenOpened": "2026-02-27T06:42:45.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppApi\\TodoAppApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TodoAppApi\\appsettings.Development.json",
@@ -58,11 +91,12 @@
               "RelativeToolTip": "TodoAppApi\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-27T06:27:58.923Z"
+              "WhenOpened": "2026-02-27T06:27:58.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppApi\\TodoAppApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TodoAppApi\\Data\\AppDbContext.cs",
@@ -70,19 +104,21 @@
               "RelativeToolTip": "TodoAppApi\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T06:26:01.797Z"
+              "WhenOpened": "2026-02-27T06:26:01.797Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppApi\\TodoAppApi\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "TodoAppApi\\Models\\TodoItem.cs",
               "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppApi\\TodoAppApi\\Models\\TodoItem.cs",
               "RelativeToolTip": "TodoAppApi\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T05:26:19.268Z"
+              "WhenOpened": "2026-02-27T05:26:19.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,7 +128,7 @@
               "RelativeDocumentMoniker": "TodoAppApi\\Program.cs",
               "ToolTip": "C:\\DotNetTraining\\26Feb-ASPNET\\TodoAppApi\\TodoAppApi\\Program.cs",
               "RelativeToolTip": "TodoAppApi\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAUwE0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwGwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T05:15:47.007Z",
               "EditorCaption": ""

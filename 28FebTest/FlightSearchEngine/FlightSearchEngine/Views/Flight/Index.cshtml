@@ -1,0 +1,42 @@
+﻿@model SearchViewModel
+
+<div class="container mt-5" style="max-width:600px;">
+    <h2 class="text-center mb-4">✈ Flight Search</h2>
+
+    <form asp-controller="Flight" method="post" class="card p-4 shadow-sm">
+        @Html.AntiForgeryToken()
+
+        <div class="mb-3">
+            <label class="form-label">Source</label>
+            <select asp-for="Source" asp-items="Model.SourceList" class="form-select">
+                <option value="">-- Select Source --</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Destination</label>
+            <select asp-for="Destination" asp-items="Model.DestinationList" class="form-select">
+                <option value="">-- Select Destination --</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Number of Persons</label>
+            <input asp-for="NumberOfPersons" type="number" class="form-control" min="1" max="10" />
+        </div>
+
+        <div class="d-flex justify-content-between">
+            <button type="submit"
+                    asp-action="SearchFlights"
+                    class="btn btn-primary">
+                Search Flights
+            </button>
+
+            <button type="submit"
+                    asp-action="SearchFlightsWithHotels"
+                    class="btn btn-warning">
+                Flight + Hotel
+            </button>
+        </div>
+    </form>
+</div>

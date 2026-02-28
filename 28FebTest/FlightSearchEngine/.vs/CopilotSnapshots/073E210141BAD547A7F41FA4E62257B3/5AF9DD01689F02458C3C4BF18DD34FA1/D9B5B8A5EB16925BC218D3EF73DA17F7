@@ -1,0 +1,62 @@
+﻿@model SearchViewModel
+
+<h2>Flight Search</h2>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+
+    <div>
+        <label>Source</label>
+        <select asp-for="Source" asp-items="Model.SourceList">
+            <option value="">-- Select Source --</option>
+        </select>
+        <span asp-validation-for="Source"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Destination</label>
+        <select asp-for="Destination" asp-items="Model.DestinationList">
+            <option value="">-- Select Destination --</option>
+        </select>
+        <span asp-validation-for="Destination"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Number of Persons</label>
+        <input asp-for="NumberOfPersons" type="number" min="1" max="10" />
+        <span asp-validation-for="NumberOfPersons"></span>
+    </div>
+
+    <br />
+
+    <button type="submit" name="command" value="SearchFlights" style="background-color: green; color: white; padding: 10px 20px; cursor: pointer;">
+        Search Flights Only
+    </button>
+
+    <button type="submit" name="command" value="SearchFlightsWithHotels" style="background-color: orange; color: white; padding: 10px 20px; cursor: pointer; margin-left: 10px;">
+        Search Flights + Hotel
+    </button>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        // Prevent same source and destination
+        document.querySelector("form").addEventListener("submit", function (e) {
+            var source = document.querySelector("[name='Source']").value;
+            var dest = document.querySelector("[name='Destination']").value;
+
+            if (source === dest && source !== "") {
+                alert("Source and Destination cannot be same!");
+                e.preventDefault();
+                return false;
+            }
+        });
+    </script>
+}

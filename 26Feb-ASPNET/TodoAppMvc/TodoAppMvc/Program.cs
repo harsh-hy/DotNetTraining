@@ -12,7 +12,6 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
-// 🔥 ADD THIS (for API calls)
 builder.Services.AddHttpClient("TodoApi", client =>
 {
     client.BaseAddress = new Uri("https://localhost:7188/");
@@ -41,6 +40,7 @@ else
 }
 
 app.UseHttpsRedirection();
+app.UseStaticFiles();  
 app.UseRouting();
 app.UseAuthorization();
 

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNetTraining\\28FebTest\\FlightSearchEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B6F644-B1C8-4327-1765-8AEC24D07E4E}|FlightSearchEngine\\FlightSearchEngine.csproj|c:\\dotnettraining\\28febtest\\flightsearchengine\\flightsearchengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B6F644-B1C8-4327-1765-8AEC24D07E4E}|FlightSearchEngine\\FlightSearchEngine.csproj|solutionrelative:flightsearchengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\28FebTest\\FlightSearchEngine\\FlightSearchEngine\\Program.cs",
+              "RelativeDocumentMoniker": "FlightSearchEngine\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\28FebTest\\FlightSearchEngine\\FlightSearchEngine\\Program.cs",
+              "RelativeToolTip": "FlightSearchEngine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T10:54:29.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
