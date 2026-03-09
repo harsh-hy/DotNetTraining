@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNetTraining\\WebApiPractice\\Practice1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5774CF1-2A45-9583-F645-E8251E47CCCB}|Practice1\\Practice1.csproj|c:\\dotnettraining\\webapipractice\\practice1\\practice1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5774CF1-2A45-9583-F645-E8251E47CCCB}|Practice1\\Practice1.csproj|solutionrelative:practice1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5774CF1-2A45-9583-F645-E8251E47CCCB}|Practice1\\Practice1.csproj|c:\\dotnettraining\\webapipractice\\practice1\\practice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5774CF1-2A45-9583-F645-E8251E47CCCB}|Practice1\\Practice1.csproj|solutionrelative:practice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\Practice1\\Practice1\\Program.cs",
+              "RelativeDocumentMoniker": "Practice1\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\Practice1\\Practice1\\Program.cs",
+              "RelativeToolTip": "Practice1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T06:24:00.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\Practice1\\Practice1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Practice1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\Practice1\\Practice1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Practice1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T05:54:11.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

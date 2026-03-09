@@ -13,7 +13,7 @@ namespace StudentPortal.Repositories
         Task UpdateAsync(Student student);
 
         Task DeleteAsync(int id);
-
+            
         Task<bool> EmailExistsAsync(string email, int? ignoreStudentId = null);
     }
 }
