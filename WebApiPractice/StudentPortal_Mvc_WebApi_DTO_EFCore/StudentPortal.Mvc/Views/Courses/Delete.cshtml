@@ -1,0 +1,3 @@
+@model CourseVm
+@{ ViewData["Title"] = "Delete Course"; }
+<div class="card"><h2>Delete Course</h2><p>Are you sure you want to delete <strong>@Model.Title</strong>?</p><form method="post"><button type="submit" class="btn danger">Delete</button> <a class="btn secondary" asp-action="Index">Cancel</a></form></div>

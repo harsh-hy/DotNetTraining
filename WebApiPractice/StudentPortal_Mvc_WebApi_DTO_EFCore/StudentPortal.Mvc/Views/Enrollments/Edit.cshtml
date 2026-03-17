@@ -1,0 +1,10 @@
+@model EnrollmentVm
+@{ ViewData["Title"] = "Edit Enrollment"; }
+<div class="card"><h2>@ViewData["Title"]</h2><div asp-validation-summary="All"></div><form method="post">
+<input asp-for="EnrollmentId" type="hidden" />
+<div class="form-group"><label asp-for="StudentId">Student</label><select asp-for="StudentId" asp-items="Model.Students"><option value="">-- Select Student --</option></select></div>
+<div class="form-group"><label asp-for="CourseId">Course</label><select asp-for="CourseId" asp-items="Model.Courses"><option value="">-- Select Course --</option></select></div>
+<div class="form-group"><label asp-for="EnrollDate"></label><input asp-for="EnrollDate" type="date" /></div>
+<div class="form-group"><label asp-for="PaymentStatus"></label><select asp-for="PaymentStatus"><option>Pending</option><option>Paid</option><option>Partial</option></select></div>
+<div class="form-group"><label asp-for="PaidAmount"></label><input asp-for="PaidAmount" type="number" step="0.01" /></div>
+<button type="submit" class="btn">Save</button> <a class="btn secondary" asp-action="Index">Back</a></form></div>

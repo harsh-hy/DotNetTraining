@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4057C18-A6E5-470D-8EAC-0688010A6F06}|..\\StudentPortal.Api\\StudentPortal.Api.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4057C18-A6E5-470D-8EAC-0688010A6F06}|..\\StudentPortal.Api\\StudentPortal.Api.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.api\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4057C18-A6E5-470D-8EAC-0688010A6F06}|..\\StudentPortal.Api\\StudentPortal.Api.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.api\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4057C18-A6E5-470D-8EAC-0688010A6F06}|..\\StudentPortal.Api\\StudentPortal.Api.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.api\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4057C18-A6E5-470D-8EAC-0688010A6F06}|..\\StudentPortal.Api\\StudentPortal.Api.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.api\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4057C18-A6E5-470D-8EAC-0688010A6F06}|..\\StudentPortal.Api\\StudentPortal.Api.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.api\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4057C18-A6E5-470D-8EAC-0688010A6F06}|..\\StudentPortal.Api\\StudentPortal.Api.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.api\\dtos\\coursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAABE1F3-AE94-4910-B5A4-7AE9D70E4AE3}|StudentPortal.Mvc.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAABE1F3-AE94-4910-B5A4-7AE9D70E4AE3}|StudentPortal.Mvc.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAABE1F3-AE94-4910-B5A4-7AE9D70E4AE3}|StudentPortal.Mvc.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAABE1F3-AE94-4910-B5A4-7AE9D70E4AE3}|StudentPortal.Mvc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAABE1F3-AE94-4910-B5A4-7AE9D70E4AE3}|StudentPortal.Mvc.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.mvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAABE1F3-AE94-4910-B5A4-7AE9D70E4AE3}|StudentPortal.Mvc.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4057C18-A6E5-470D-8EAC-0688010A6F06}|..\\StudentPortal.Api\\StudentPortal.Api.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4057C18-A6E5-470D-8EAC-0688010A6F06}|..\\StudentPortal.Api\\StudentPortal.Api.csproj|c:\\lpu\\studentportal_mvc_webapi_dto_efcore\\studentportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2bb8137c-bac8-4d04-820a-c52b5d5b82da}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentPortal.Api\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\StudentPortal.Api\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:36:55.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentPortal.Api\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\StudentPortal.Api\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:36:07.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentPortal.Api\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Services\\IStudentService.cs",
+              "RelativeToolTip": "..\\StudentPortal.Api\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:35:15.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentPortal.Api\\Services\\StudentService.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\StudentPortal.Api\\Services\\StudentService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:25:39.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentPortal.Api\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "..\\StudentPortal.Api\\Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:24:25.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "..\\StudentPortal.Api\\Services\\CourseService.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Services\\CourseService.cs",
+              "RelativeToolTip": "..\\StudentPortal.Api\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:22:37.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseDtos.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\DTOs\\CourseDtos.cs",
+              "RelativeDocumentMoniker": "..\\StudentPortal.Api\\DTOs\\CourseDtos.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\DTOs\\CourseDtos.cs",
+              "RelativeToolTip": "..\\StudentPortal.Api\\DTOs\\CourseDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:21:50.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Mvc\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Mvc\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T05:02:59.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Mvc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:51:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "..\\StudentPortal.Api\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "..\\StudentPortal.Api\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T04:45:13.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\StudentPortal.Api\\appsettings.json",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Api\\appsettings.json",
+              "RelativeToolTip": "..\\StudentPortal.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T04:40:14.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\LPU\\StudentPortal_Mvc_WebApi_DTO_EFCore\\StudentPortal.Mvc\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T04:40:10.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

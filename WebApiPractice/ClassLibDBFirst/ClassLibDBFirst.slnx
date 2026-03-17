@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClassLibDBFirst/ClassLibDBFirst.csproj" />
+  <Project Path="webApp1/webApp1.csproj" />
+</Solution>

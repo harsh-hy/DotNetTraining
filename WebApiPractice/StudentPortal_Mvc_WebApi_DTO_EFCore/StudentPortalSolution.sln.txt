@@ -1,0 +1,4 @@
+Create solution manually if needed:
+dotnet new sln -n StudentPortalSolution
+dotnet sln add StudentPortal.Api/StudentPortal.Api.csproj
+dotnet sln add StudentPortal.Mvc/StudentPortal.Mvc.csproj

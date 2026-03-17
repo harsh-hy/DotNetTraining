@@ -1,0 +1,32 @@
+﻿@model List<WebApiConsumerMVC.Models.Post>
+
+<h2>Posts</h2>
+
+<a asp-action="Create" class="btn btn-primary">Create New Post</a>
+
+@if (TempData["Success"] != null)
+{
+    <p style="color:green">@TempData["Success"]</p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>UserId</th>
+            <th>Title</th>
+            <th>Body</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var post in Model)
+        {
+            <tr>
+                <td>@post.Id</td>
+                <td>@post.UserId</td>
+                <td>@post.Title</td>
+                <td>@post.Body</td>
+            </tr>
+        }
+    </tbody>
+</table>
