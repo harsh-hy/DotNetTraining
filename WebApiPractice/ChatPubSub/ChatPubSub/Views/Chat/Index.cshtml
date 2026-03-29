@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Chat";
+}
+
+<h2>Simple RabbitMQ Chat</h2>
+
+<div>
+    <label>Your Name:</label>
+    <input type="text" id="sender" value="@ViewBag.UserName" readonly />
+</div>
+
+<div>
+    <label>Send To:</label>
+    <input type="text" id="receiver" />
+</div>
+
+<div>
+    <label>Message:</label>
+    <input type="text" id="message" />
+</div>
+
+<button onclick="sendMessage()">Send</button>
+
+<hr />
+
+<h3>Messages:</h3>
+<div id="chatBox"></div>
+
+<script>
+    function sendMessage() {
+        const sender = document.getElementById("sender").value;
+        const receiver = document.getElementById("receiver").value;
+        const content = document.getElementById("message").value;
+
+        fetch("/api/chat/send", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                sender: sender,
+                receiver: receiver,
+                content: content
+            })
+        })
+        .then(res => res.text())
+        .then(data => {
+            console.log(data);
+            document.getElementById("message").value = "";
+        });
+    }
+        function loadMessages() {
+        fetch("/api/chat/messages")
+            .then(res => res.json())
+            .then(data => {
+                const chatBox = document.getElementById("chatBox");
+                chatBox.innerHTML = "";
+
+                data.forEach(msg => {
+                    chatBox.innerHTML += `<div><b>${msg.sender}</b>: ${msg.content}</div>`;
+                });
+            });
+    }
+
+    setInterval(loadMessages, 1000);
+</script>

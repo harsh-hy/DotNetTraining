@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|solutionrelative:chatpubsub\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|solutionrelative:chatpubsub\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|solutionrelative:chatpubsub\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|solutionrelative:chatpubsub\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub_user2\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|solutionrelative:chatpubsub_user2\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|solutionrelative:chatpubsub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|solutionrelative:chatpubsub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub_user2\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|solutionrelative:chatpubsub_user2\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub_user2\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|solutionrelative:chatpubsub_user2\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub_user2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|solutionrelative:chatpubsub_user2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub_user2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|solutionrelative:chatpubsub_user2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub_user2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5476699-9AFC-4542-9490-721550F3CA39}|ChatPubSub_User2\\ChatPubSub_User2.csproj|solutionrelative:chatpubsub_user2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|solutionrelative:chatpubsub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|c:\\dotnettraining\\webapipractice\\chatpubsub\\chatpubsub\\chatpubsub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19FF29DD-6307-7A89-C7A4-598BA8CD45BA}|ChatPubSub\\ChatPubSub.csproj|solutionrelative:chatpubsub\\chatpubsub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2bb8137c-bac8-4d04-820a-c52b5d5b82da}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatPubSub\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatPubSub\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T18:06:42.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Program.cs",
+              "RelativeDocumentMoniker": "ChatPubSub\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Program.cs",
+              "RelativeToolTip": "ChatPubSub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:35:22.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatPubSub\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatPubSub\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:48:18.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatPubSub\\Views\\Chat\\Index.cshtml",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "ChatPubSub\\Views\\Chat\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T17:56:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatPubSub\\appsettings.json",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\appsettings.json",
+              "RelativeToolTip": "ChatPubSub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T17:46:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Services\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "ChatPubSub\\Services\\RabbitMqService.cs",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Services\\RabbitMqService.cs",
+              "RelativeToolTip": "ChatPubSub\\Services\\RabbitMqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:41:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "ChatPubSub\\Models\\ChatMessage.cs",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "ChatPubSub\\Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:40:59.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Services\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "ChatPubSub_User2\\Services\\RabbitMqService.cs",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Services\\RabbitMqService.cs",
+              "RelativeToolTip": "ChatPubSub_User2\\Services\\RabbitMqService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAEoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T18:59:00.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatPubSub_User2\\Views\\Chat\\Index.cshtml",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "ChatPubSub_User2\\Views\\Chat\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T19:02:53.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatPubSub_User2\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatPubSub_User2\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T18:48:45.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Program.cs",
+              "RelativeDocumentMoniker": "ChatPubSub_User2\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Program.cs",
+              "RelativeToolTip": "ChatPubSub_User2\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T18:43:58.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChatPubSub_User2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChatPubSub_User2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T18:43:05.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatPubSub_User2\\appsettings.json",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub_User2\\appsettings.json",
+              "RelativeToolTip": "ChatPubSub_User2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-19T18:43:39.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatPubSub.csproj",
+              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\ChatPubSub.csproj",
+              "RelativeDocumentMoniker": "ChatPubSub\\ChatPubSub.csproj",
+              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\ChatPubSub\\ChatPubSub\\ChatPubSub.csproj",
+              "RelativeToolTip": "ChatPubSub\\ChatPubSub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-19T18:13:21.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

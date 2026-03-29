@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ChatPubSub/ChatPubSub.csproj" />
+  <Project Path="ChatPubSub_User2/ChatPubSub_User2.csproj" Id="d5476699-9afc-4542-9490-721550f3ca39" />
+</Solution>
