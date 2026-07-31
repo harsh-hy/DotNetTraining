@@ -1,0 +1,25 @@
+chaning of constructor: it is needed in exception handeling
+rect blue feild
+transparent square method
+pana property
+var keyword must be initialised
+clr
+garbage coll
+
+4 types of properties:
+autoimplicit property public int property {get;set;}
+clr properties 
+deferred property 
+ddependency propert
+
+making things private and exposing them via properties
+
+Scenario: Base Employee class with CalculatePay(). Derived FullTimeEmployee and InternEmployee.
+Question: Prevent inheritance from InternEmployee. Allow overriding CalculatePay with a default base implementation.
+
+
+based on demand and supply apply discount without touching the product class-- use interface
+
+The "Payment Processor"
+Scenario: Fintech app supporting Stripe, PayPal, and Razorpay with different charge methods.
+Question: How do you design this so the Checkout service is decoupled?
