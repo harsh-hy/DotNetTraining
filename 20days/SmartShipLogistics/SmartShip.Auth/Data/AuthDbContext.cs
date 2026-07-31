@@ -3,15 +3,29 @@ using SmartShip.Auth.Models;
 
 namespace SmartShip.Auth.Data;
 
+/// <summary>
+/// Represents the database context for the authentication service.
+/// </summary>
 public class AuthDbContext : DbContext
 {
+    /// <summary>
+    /// Initializes a new instance of the <see cref="AuthDbContext"/> class.
+    /// </summary>
+    /// <param name="options">The options used to configure the database context.</param>
     public AuthDbContext(DbContextOptions<AuthDbContext> options)
         : base(options)
     {
     }
 
+    /// <summary>
+    /// Gets the collection of users stored in the database.
+    /// </summary>
     public DbSet<User> Users => Set<User>();
 
+    /// <summary>
+    /// Configures the entity relationships, constraints, and database properties for the authentication service.
+    /// </summary>
+    /// <param name="modelBuilder">The model builder used to configure the database model.</param>
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);

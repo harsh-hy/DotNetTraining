@@ -6,17 +6,29 @@ using System.Security.Claims;
 
 namespace SmartShip.Auth.Controllers;
 
+/// <summary>
+/// Provides endpoints for user registration, authentication, and profile retrieval.
+/// </summary>
 [ApiController]
 [Route("api/auth")]
 public class AuthController : ControllerBase
 {
     private readonly IAuthService _authService;
 
+    /// <summary>
+    /// Initializes a new instance of the <see cref="AuthController"/> class.
+    /// </summary>
+    /// <param name="authService">The authentication service used to handle authentication operations.</param>
     public AuthController(IAuthService authService)
     {
         _authService = authService;
     }
 
+    /// <summary>
+    /// Registers a new user account.
+    /// </summary>
+    /// <param name="request">The registration details provided by the user.</param>
+    /// <returns>A success response if registration is successful; otherwise, a conflict response if the email already exists.</returns>
     [HttpPost("register")]
     public async Task<IActionResult> Register(RegisterDto request)
     {
@@ -36,6 +48,11 @@ public class AuthController : ControllerBase
         });
     }
 
+    /// <summary>
+    /// Authenticates a user and returns an authentication response.
+    /// </summary>
+    /// <param name="request">The login credentials provided by the user.</param>
+    /// <returns>An authentication response if the credentials are valid; otherwise, an unauthorized response.</returns>
     [HttpPost("login")]
     public async Task<IActionResult> Login(LoginDto request)
     {
@@ -52,6 +69,10 @@ public class AuthController : ControllerBase
         return Ok(response);
     }
 
+    /// <summary>
+    /// Retrieves the profile of the currently authenticated user.
+    /// </summary>
+    /// <returns>The user's profile if found; otherwise, an unauthorized or not found response.</returns>
     [Authorize]
     [HttpGet("profile")]
     public async Task<IActionResult> Profile()
