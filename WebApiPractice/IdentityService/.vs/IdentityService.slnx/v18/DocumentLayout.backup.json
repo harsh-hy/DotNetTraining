@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Migrations\\20260329192219_FixRoleDefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityService\\Migrations\\20260329192219_FixRoleDefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Migrations\\20260329191600_AddUserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityService\\Migrations\\20260329191600_AddUserRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,6 +69,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\migrations\\20260329181347_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\migrations\\20260329181347_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\migrations\\20260329192219_fixroledefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\migrations\\20260329192219_fixroledefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|c:\\dotnettraining\\webapipractice\\identityservice\\identityservice\\migrations\\20260329191600_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A234FC94-AA51-A558-AC74-0D69EA0D971A}|IdentityService\\IdentityService.csproj|solutionrelative:identityservice\\migrations\\20260329191600_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,20 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Models\\UserRole.cs",
-              "RelativeDocumentMoniker": "IdentityService\\Models\\UserRole.cs",
-              "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Models\\UserRole.cs",
-              "RelativeToolTip": "IdentityService\\Models\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T19:52:11.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "IdentityService\\Services\\AuthService.cs",
@@ -183,25 +166,24 @@
               "RelativeToolTip": "IdentityService\\Services\\AuthService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:18:51.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:18:51.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "JwtHelper.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Helper\\JwtHelper.cs",
               "RelativeDocumentMoniker": "IdentityService\\Helper\\JwtHelper.cs",
               "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Helper\\JwtHelper.cs",
               "RelativeToolTip": "IdentityService\\Helper\\JwtHelper.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAACIAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAIA8wBkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T18:28:10.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "IdentityService\\Data\\AppDbContext.cs",
@@ -209,12 +191,11 @@
               "RelativeToolTip": "IdentityService\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:11:07.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:11:07.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "IdentityService\\Controllers\\AuthController.cs",
@@ -222,38 +203,35 @@
               "RelativeToolTip": "IdentityService\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:37:19.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:37:19.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "IdentityService\\Repository\\UserRepository.cs",
               "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Repository\\UserRepository.cs",
               "RelativeToolTip": "IdentityService\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:17:38.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:17:38.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Models\\User.cs",
               "RelativeDocumentMoniker": "IdentityService\\Models\\User.cs",
               "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Models\\User.cs",
               "RelativeToolTip": "IdentityService\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:09:01.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:09:01.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "20260329192219_FixRoleDefault.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Migrations\\20260329192219_FixRoleDefault.cs",
               "RelativeDocumentMoniker": "IdentityService\\Migrations\\20260329192219_FixRoleDefault.cs",
@@ -261,12 +239,11 @@
               "RelativeToolTip": "IdentityService\\Migrations\\20260329192219_FixRoleDefault.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T19:22:20.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T19:22:20.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "20260329191600_AddUserRole.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Migrations\\20260329191600_AddUserRole.cs",
               "RelativeDocumentMoniker": "IdentityService\\Migrations\\20260329191600_AddUserRole.cs",
@@ -274,12 +251,11 @@
               "RelativeToolTip": "IdentityService\\Migrations\\20260329191600_AddUserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T19:16:00.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T19:16:00.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "IdentityService\\Services\\IAuthService.cs",
@@ -287,12 +263,11 @@
               "RelativeToolTip": "IdentityService\\Services\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:18:32.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:18:32.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "TokenResponseDto.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\DTOs\\TokenResponseDto.cs",
               "RelativeDocumentMoniker": "IdentityService\\DTOs\\TokenResponseDto.cs",
@@ -300,12 +275,11 @@
               "RelativeToolTip": "IdentityService\\DTOs\\TokenResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:26:31.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:26:31.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "IJwtHelper.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Helper\\IJwtHelper.cs",
               "RelativeDocumentMoniker": "IdentityService\\Helper\\IJwtHelper.cs",
@@ -313,25 +287,23 @@
               "RelativeToolTip": "IdentityService\\Helper\\IJwtHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:27:49.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:27:49.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IdentityService",
+              "DocumentIndex": 7,
+              "Title": "IdentityService.csproj",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\IdentityService.csproj",
               "RelativeDocumentMoniker": "IdentityService\\IdentityService.csproj",
               "ToolTip": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\IdentityService.csproj",
               "RelativeToolTip": "IdentityService\\IdentityService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-29T19:04:07.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T19:04:07.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Program.cs",
               "RelativeDocumentMoniker": "IdentityService\\Program.cs",
@@ -339,12 +311,11 @@
               "RelativeToolTip": "IdentityService\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:03:32.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:03:32.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\appsettings.json",
               "RelativeDocumentMoniker": "IdentityService\\appsettings.json",
@@ -352,12 +323,11 @@
               "RelativeToolTip": "IdentityService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-29T18:11:21.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:11:21.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "IdentityService\\DTOs\\LoginDto.cs",
@@ -365,12 +335,11 @@
               "RelativeToolTip": "IdentityService\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:16:20.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:16:20.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "IdentityService\\Repository\\IUserRepository.cs",
@@ -378,12 +347,11 @@
               "RelativeToolTip": "IdentityService\\Repository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:17:24.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:17:24.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "RefreshTokenDto.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\DTOs\\RefreshTokenDto.cs",
               "RelativeDocumentMoniker": "IdentityService\\DTOs\\RefreshTokenDto.cs",
@@ -391,12 +359,11 @@
               "RelativeToolTip": "IdentityService\\DTOs\\RefreshTokenDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:16:54.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:16:54.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "IdentityService\\DTOs\\RegisterDto.cs",
@@ -404,12 +371,11 @@
               "RelativeToolTip": "IdentityService\\DTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:16:37.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:16:37.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "20260329181347_InitialCreate.cs",
               "DocumentMoniker": "C:\\DotNetTraining\\WebApiPractice\\IdentityService\\IdentityService\\Migrations\\20260329181347_InitialCreate.cs",
               "RelativeDocumentMoniker": "IdentityService\\Migrations\\20260329181347_InitialCreate.cs",
@@ -417,8 +383,7 @@
               "RelativeToolTip": "IdentityService\\Migrations\\20260329181347_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T18:13:48.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T18:13:48.074Z"
             }
           ]
         }

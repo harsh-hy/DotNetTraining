@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/building-blocks/">
+    <Project Path="SmartShip.BuildingBlocks/SmartShip.BuildingBlocks.csproj" />
+    <Project Path="SmartShip.Contracts/SmartShip.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/gateway/">
+    <Project Path="SmartShip.Gateway/SmartShip.Gateway.csproj" />
+  </Folder>
+  <Folder Name="/services/" />
+  <Folder Name="/services/admin/">
+    <Project Path="SmartShip.AdminService/SmartShip.AdminService.csproj" />
+  </Folder>
+  <Folder Name="/services/identity/">
+    <Project Path="SmartShip.IdentityService/SmartShip.IdentityService.csproj" />
+  </Folder>
+  <Folder Name="/services/shipment/">
+    <Project Path="SmartShip.ShipmentService/SmartShip.ShipmentService.csproj" />
+  </Folder>
+  <Folder Name="/services/tracking/">
+    <Project Path="SmartShip.TrackingService/SmartShip.TrackingService.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SmartShip.API.Tests/SmartShip.API.Tests.csproj" Id="75e9c226-de9f-4349-b354-fc6356f3e79e" />
+  <Project Path="SmartShip.API/SmartShip.API.csproj" />
+  <Project Path="SmartShip.Auth/SmartShip.Auth.csproj" />
+  <Project Path="SmartShip.Gateway/SmartShip.Gateway.csproj" />
+</Solution>

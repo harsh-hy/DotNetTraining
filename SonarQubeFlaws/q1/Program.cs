@@ -1,7 +1,6 @@
 ﻿using System.Data;
 using System.Data.SqlClient;
 using Microsoft.Extensions.Logging;
-
 public class ProductRepository
 {
     private readonly string _connectionString;

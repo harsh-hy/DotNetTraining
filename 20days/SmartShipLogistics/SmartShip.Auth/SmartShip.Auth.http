@@ -1,0 +1,6 @@
+@SmartShip.Auth_HostAddress = http://localhost:5064
+
+GET {{SmartShip.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

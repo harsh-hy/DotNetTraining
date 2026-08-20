@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNetTraining\\SmartShip.Logistics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|solutionrelative:smartship.identityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|solutionrelative:smartship.identityservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.identityservice\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|solutionrelative:smartship.identityservice\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.identityservice\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|solutionrelative:smartship.identityservice\\data\\identitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|solutionrelative:smartship.identityservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.identityservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|solutionrelative:smartship.identityservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.identityservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|solutionrelative:smartship.identityservice\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243DA8AA-4D67-023F-F1E5-E351563C5002}|SmartShip.IdentityService\\SmartShip.IdentityService.csproj|solutionrelative:smartship.identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9836A435-9333-E428-EC63-B10BD5F4F4BA}|SmartShip.TrackingService\\SmartShip.TrackingService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.trackingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9836A435-9333-E428-EC63-B10BD5F4F4BA}|SmartShip.TrackingService\\SmartShip.TrackingService.csproj|solutionrelative:smartship.trackingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E02954-C56E-881A-34E7-4D1F04EF5607}|SmartShip.ShipmentService\\SmartShip.ShipmentService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.shipmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E02954-C56E-881A-34E7-4D1F04EF5607}|SmartShip.ShipmentService\\SmartShip.ShipmentService.csproj|solutionrelative:smartship.shipmentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42C0F61-ADCA-F54E-56F0-C204E705341F}|SmartShip.AdminService\\SmartShip.AdminService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42C0F61-ADCA-F54E-56F0-C204E705341F}|SmartShip.AdminService\\SmartShip.AdminService.csproj|solutionrelative:smartship.adminservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42C0F61-ADCA-F54E-56F0-C204E705341F}|SmartShip.AdminService\\SmartShip.AdminService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.adminservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C42C0F61-ADCA-F54E-56F0-C204E705341F}|SmartShip.AdminService\\SmartShip.AdminService.csproj|solutionrelative:smartship.adminservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9836A435-9333-E428-EC63-B10BD5F4F4BA}|SmartShip.TrackingService\\SmartShip.TrackingService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.trackingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9836A435-9333-E428-EC63-B10BD5F4F4BA}|SmartShip.TrackingService\\SmartShip.TrackingService.csproj|solutionrelative:smartship.trackingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E02954-C56E-881A-34E7-4D1F04EF5607}|SmartShip.ShipmentService\\SmartShip.ShipmentService.csproj|c:\\dotnettraining\\smartship.logistics\\smartship.shipmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59E02954-C56E-881A-34E7-4D1F04EF5607}|SmartShip.ShipmentService\\SmartShip.ShipmentService.csproj|solutionrelative:smartship.shipmentservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2bb8137c-bac8-4d04-820a-c52b5d5b82da}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartShip.IdentityService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartShip.IdentityService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:51:19.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "SmartShip.IdentityService\\Services\\JwtService.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Services\\JwtService.cs",
+              "RelativeToolTip": "SmartShip.IdentityService\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:50:57.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityDbContext.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Data\\IdentityDbContext.cs",
+              "RelativeDocumentMoniker": "SmartShip.IdentityService\\Data\\IdentityDbContext.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Data\\IdentityDbContext.cs",
+              "RelativeToolTip": "SmartShip.IdentityService\\Data\\IdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:49:25.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SmartShip.IdentityService\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "SmartShip.IdentityService\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:48:47.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "SmartShip.IdentityService\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "SmartShip.IdentityService\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:48:17.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SmartShip.IdentityService\\Models\\User.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Models\\User.cs",
+              "RelativeToolTip": "SmartShip.IdentityService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T05:43:59.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.ShipmentService\\Program.cs",
+              "RelativeDocumentMoniker": "SmartShip.ShipmentService\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.ShipmentService\\Program.cs",
+              "RelativeToolTip": "SmartShip.ShipmentService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T05:40:18.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Program.cs",
+              "RelativeDocumentMoniker": "SmartShip.IdentityService\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\Program.cs*",
+              "RelativeToolTip": "SmartShip.IdentityService\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T05:40:04.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.AdminService\\Program.cs",
+              "RelativeDocumentMoniker": "SmartShip.AdminService\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.AdminService\\Program.cs",
+              "RelativeToolTip": "SmartShip.AdminService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T05:39:17.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartShip.IdentityService\\appsettings.json",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.IdentityService\\appsettings.json",
+              "RelativeToolTip": "SmartShip.IdentityService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T05:32:12.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.TrackingService\\Program.cs",
+              "RelativeDocumentMoniker": "SmartShip.TrackingService\\Program.cs",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.TrackingService\\Program.cs",
+              "RelativeToolTip": "SmartShip.TrackingService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T05:40:30.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.AdminService\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartShip.AdminService\\appsettings.json",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.AdminService\\appsettings.json",
+              "RelativeToolTip": "SmartShip.AdminService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T05:33:10.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.TrackingService\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartShip.TrackingService\\appsettings.json",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.TrackingService\\appsettings.json",
+              "RelativeToolTip": "SmartShip.TrackingService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T05:32:41.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.ShipmentService\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartShip.ShipmentService\\appsettings.json",
+              "ToolTip": "C:\\DotNetTraining\\SmartShip.Logistics\\SmartShip.ShipmentService\\appsettings.json",
+              "RelativeToolTip": "SmartShip.ShipmentService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T05:31:08.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

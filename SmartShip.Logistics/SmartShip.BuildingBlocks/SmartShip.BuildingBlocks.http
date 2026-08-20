@@ -1,0 +1,6 @@
+@SmartShip.BuildingBlocks_HostAddress = http://localhost:5122
+
+GET {{SmartShip.BuildingBlocks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
